@@ -1,0 +1,24 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+6410248,1761374,"720","Willingboro, Westampton - Midtown Manhattan","",3,"",000000,ffffff
+6410251,1761374,"604","Route 36 - Wall Street","",3,"",000000,ffffff
+6410252,1761374,"602","Route 36 - Port Authority","",3,"",000000,ffffff
+6410256,1761374,"406","Jackson - Port Authority","",3,"",000000,ffffff
+6410257,1761374,"404","Route 9 - Wall Street","",3,"",000000,ffffff
+6410258,1761374,"352","PNC Bank Arts Center - Port Authority","",3,"",e8e8e8,000000
+6410260,1761374,"302","Parkway Express - Port Authority","",3,"",000000,ffffff
+6443451,1761374,"720","Willingboro, Westampton - Midtown Manhattan","",3,"",000000,ffffff
+6452372,1761374,"200","Shore Points - Port Authority","",3,"",000000,ffffff
+6471062,1761374,"200","Shore Points - Port Authority","",3,"",000000,ffffff
+6474410,1761374,"302","Parkway Express - Port Authority","",3,"",000000,ffffff
+6474412,1761374,"314","Parkway Express - Wall Street","",3,"",000000,ffffff
+6474476,1761374,"314","Parkway Express - Wall Street","",3,"",000000,ffffff
+6474562,1761374,"410","Lakehurst, Manchester, Jackson - Port Authority","",3,"",000000,ffffff
+6474681,1761374,"410","Lakehurst, Manchester, Jackson - Port Authority","",3,"",000000,ffffff
+6474682,1761374,"406","Jackson - Port Authority","",3,"",000000,ffffff
+6489993,1761374,"602","Route 36 - Port Authority","",3,"",000000,ffffff
+6490583,1761374,"604","Route 36 - Wall Street","",3,"",000000,ffffff
+6497305,1761374,"404","Route 9 - Wall Street","",3,"",000000,ffffff
+7566101,1761374,"139","Route 9 - Port Authority","139",3,"",,
+7592569,1761374,"721","8A - New York","",3,"",,
+8709460,1761374,"206","Parkway Express - Wall Street Via Jersey City","",3,"",,
+8709461,1761374,"206","Parkway Express - Wall Street Via Jersey City","",3,"",,

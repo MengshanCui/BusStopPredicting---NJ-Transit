@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+10676,0,0,0,0,0,1,1,20150615,20240528
+10636,0,0,0,0,1,0,0,20150615,20240528
+10621,1,1,1,1,0,0,0,20150615,20240528

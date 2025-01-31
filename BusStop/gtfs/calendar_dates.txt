@@ -1,0 +1,7 @@
+service_id,date,holiday_name,exception_type
+c_70341_b_82331_d_96,20241129,Black Friday,1
+c_70341_b_82331_d_96,20241128,Thanksgiving Day,1
+c_70341_b_82331_d_31,20241129,Black Friday,2
+c_70341_b_82331_d_31,20241128,Thanksgiving Day,2
+c_70341_b_82331_d_16,20241129,Black Friday,2
+c_70341_b_82331_d_15,20241128,Thanksgiving Day,2

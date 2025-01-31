@@ -1,0 +1,34 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_70350_b_82345_d_96,Rockland starting 4/1/24 (Weekend),0,0,0,0,0,1,1,20240401,20241220
+c_70350_b_82345_d_32,Rockland starting 4/1/24 (Saturday only),0,0,0,0,0,1,0,20240401,20241220
+c_70350_b_82345_d_31,Rockland starting 4/1/24 (Weekday),1,1,1,1,1,0,0,20240401,20241220
+c_70341_b_82331_d_96,Suburban Transit starting 3/25/24 (Weekend),0,0,0,0,0,1,1,20240325,20241220
+c_70341_b_82331_d_31,Suburban Transit starting 3/25/24 (Weekday),1,1,1,1,1,0,0,20240325,20241220
+c_70341_b_82331_d_16,Suburban Transit starting 3/25/24 (Friday only),0,0,0,0,1,0,0,20240325,20241220
+c_70341_b_82331_d_15,Suburban Transit starting 3/25/24 (MTuWTh),1,1,1,1,0,0,0,20240325,20241220
+c_70166_b_82027_d_96,Shortline starting 1/7/24  (Weekend),0,0,0,0,0,1,1,20240107,20241220
+c_70166_b_82027_d_95,Shortline starting 1/7/24  (No Saturday),1,1,1,1,1,0,1,20240107,20241220
+c_70166_b_82027_d_7,Shortline starting 1/7/24  (MTuW),1,1,1,0,0,0,0,20240107,20241220
+c_70166_b_82027_d_32,Shortline starting 1/7/24  (Saturday only),0,0,0,0,0,1,0,20240107,20241220
+c_70166_b_82027_d_31,Shortline starting 1/7/24  (Weekday),1,1,1,1,1,0,0,20240107,20241220
+c_70166_b_82027_d_2,Shortline starting 1/7/24  (Tuesday only),0,1,0,0,0,0,0,20240107,20241220
+c_70166_b_82027_d_16,Shortline starting 1/7/24  (Friday only),0,0,0,0,1,0,0,20240107,20241220
+c_70166_b_82027_d_127,Shortline starting 1/7/24  (All days of week),1,1,1,1,1,1,1,20240107,20241220
+c_70166_b_82027_d_125,Shortline starting 1/7/24  (No Tuesday),1,0,1,1,1,1,1,20240107,20241220
+c_70166_b_82027_d_121,Shortline starting 1/7/24  (MThFSaSu),1,0,0,1,1,1,1,20240107,20241220
+c_69973_b_81660_d_127,Newark Airport Express starting 10/20/23 (All days of week),1,1,1,1,1,1,1,20231020,20241220
+c_69952_b_81625_d_127,Van Galder starting 10/10/23 (All days of week),1,1,1,1,1,1,1,20231010,20241220
+c_69924_b_81576_d_64,Wisconsin Coach Lines starting 10/2/23 (Sunday only),0,0,0,0,0,0,1,20231002,20241220
+c_69924_b_81576_d_32,Wisconsin Coach Lines starting 10/2/23 (Saturday only),0,0,0,0,0,1,0,20231002,20241220
+c_69924_b_81576_d_31,Wisconsin Coach Lines starting 10/2/23 (Weekday),1,1,1,1,1,0,0,20231002,20241220
+c_69924_b_81576_d_127,Wisconsin Coach Lines starting 10/2/23 (All days of week),1,1,1,1,1,1,1,20231002,20241220
+c_69642_b_83276_d_31,Waukesha County UWM Service (Weekday),1,1,1,1,1,0,0,20240903,20241127
+c_69642_b_83275_d_31,Waukesha County UWM Service (Weekday),1,1,1,1,1,0,0,20241202,20241220
+c_69324_b_80351_d_16,Community Coach starting 4/1/23 (Friday only),0,0,0,0,1,0,0,20230401,20241220
+c_69324_b_80351_d_15,Community Coach starting 4/1/23 (MTuWTh),1,1,1,1,0,0,0,20230401,20241220
+c_21620_b_30263_d_31,OWL starting 6/28/21 (Weekday),1,1,1,1,1,0,0,20210628,20241220
+c_19255_b_25329_d_64,Coach USA Erie (Sunday only),0,0,0,0,0,0,1,20200101,20241220
+c_19255_b_25329_d_63,Coach USA Erie (No Sunday),1,1,1,1,1,1,0,20200101,20241220
+c_19255_b_25329_d_32,Coach USA Erie (Saturday only),0,0,0,0,0,1,0,20200101,20241220
+c_19255_b_25329_d_31,Coach USA Erie (Weekday),1,1,1,1,1,0,0,20200101,20241220
+c_19255_b_25329_d_127,Coach USA Erie (All days of week),1,1,1,1,1,1,1,20200101,20241220

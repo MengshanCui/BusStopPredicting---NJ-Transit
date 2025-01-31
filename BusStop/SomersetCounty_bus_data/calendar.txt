@@ -1,0 +1,4 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+CAT,1,1,1,1,1,0,0,20240101,20340101
+SCOOT,1,1,1,1,1,0,0,20240101,20340101
+DASH,1,1,1,1,1,0,0,20240101,20340101

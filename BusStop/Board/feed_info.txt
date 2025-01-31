@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Broadway Bus,http://www.njtransit.com/developer-tools,en,20220101,20221231,20230830,abanerjee1@njtransit.com,

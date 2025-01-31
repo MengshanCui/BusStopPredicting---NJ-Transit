@@ -1,0 +1,7 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+E4680,LBL,,Rt. 46/80 - Eastbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,
+W4680,LBL,,Rt. 46/80 - Westbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,
+E78,LBL,,Rt. 78 - Eastbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,
+W78,LBL,,Rt. 78 - Westbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,
+ENycDt,LBL,,Downtown Wall Street Eastbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,
+WNycDt,LBL,,Downtown Wall Street Westbound,,3,https://www.lakelandbus.com/bus-schedules/#,,,,,

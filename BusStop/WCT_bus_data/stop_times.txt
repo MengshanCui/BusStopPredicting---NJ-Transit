@@ -1,0 +1,654 @@
+﻿trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,shape_dist_traveled,timepoint
+Rt31S_to_57E_T01,08:00:00,08:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T01,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T01,08:10:00,08:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T01,08:13:00,08:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T01,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T01,08:30:00,08:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T02,09:00:00,09:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T02,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T02,09:10:00,09:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T02,09:13:00,09:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T02,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T02,09:30:00,09:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T03,10:00:00,10:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T03,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T03,10:10:00,10:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T03,10:13:00,10:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T03,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T03,10:30:00,10:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T04,11:00:00,11:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T04,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T04,11:10:00,11:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T04,11:13:00,11:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T04,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T04,11:30:00,11:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T05,13:00:00,13:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T05,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T05,13:10:00,13:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T05,13:13:00,13:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T05,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T05,13:30:00,13:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T06,14:00:00,14:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T06,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T06,14:10:00,14:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T06,14:13:00,14:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T06,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T06,14:30:00,14:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T07,15:00:00,15:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T07,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T07,15:10:00,15:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T07,15:13:00,15:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T07,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T07,15:30:00,15:30:00,5WH,6,,,,,,,1
+Rt31S_to_57E_T08,16:00:00,16:00:00,1WH,1,WH Family Clinic,,,,,,1
+Rt31S_to_57E_T08,,,2_DWH,2,Shoprite,2,2,,,,
+Rt31S_to_57E_T08,16:10:00,16:10:00,3WH,3,Rt. 57 W and Railroad Ave,,,,,,1
+Rt31S_to_57E_T08,16:13:00,16:13:00,4WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt31S_to_57E_T08,,,4_DWH,5,Lowes in Hackettstown on Rt 57,2,2,,,,
+Rt31S_to_57E_T08,16:30:00,16:30:00,5WH,6,,,,,,,1
+Rt57W_to_31N_T01,08:30:00,08:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T01,08:35:00,08:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T01,08:40:00,08:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T01,08:42:00,08:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T01,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T01,08:56:00,08:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T01,09:00:00,09:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T02,09:30:00,09:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T02,09:35:00,09:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T02,09:40:00,09:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T02,09:42:00,09:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T02,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T02,09:56:00,09:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T02,10:00:00,10:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T03,10:30:00,10:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T03,10:35:00,10:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T03,10:40:00,10:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T03,10:42:00,10:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T03,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T03,10:56:00,10:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T03,11:00:00,11:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T04,11:30:00,11:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T04,11:35:00,11:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T04,11:40:00,11:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T04,11:42:00,11:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T04,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T04,11:56:00,11:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T04,12:00:00,12:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T05,13:30:00,13:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T05,13:35:00,13:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T05,13:40:00,13:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T05,13:42:00,13:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T05,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T05,13:56:00,13:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T05,14:00:00,14:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T06,14:30:00,14:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T06,14:35:00,14:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T06,14:40:00,14:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T06,14:42:00,14:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T06,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T06,14:56:00,14:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T06,15:00:00,15:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T07,15:30:00,15:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T07,15:35:00,15:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T07,15:40:00,15:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T07,15:42:00,15:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T07,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T07,15:56:00,15:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T07,16:00:00,16:00:00,10WH,7,,,,,,,1
+Rt57W_to_31N_T08,16:30:00,16:30:00,5WH,1,"Weis in Hackettstown, NJ on Rt 57",,,,,,1
+Rt57W_to_31N_T08,16:35:00,16:35:00,6WH,2,"Shoprite in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T08,16:40:00,16:40:00,7WH,3,"Walmart in Hackettstown, NJ",,,,,,1
+Rt57W_to_31N_T08,16:42:00,16:42:00,8WH,4,Rt. 57 at NJ DMV,,,,,,1
+Rt57W_to_31N_T08,,,8_DWH,5,Dunkin Donuts at  Rt 31 and Rt 57,2,2,,,,
+Rt57W_to_31N_T08,16:56:00,16:56:00,9WH,6,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,,,,,,1
+Rt57W_to_31N_T08,17:00:00,17:00:00,10WH,7,,,,,,,1
+Phillipsburg to Washington_T01,06:00:00,06:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T01,06:03:00,06:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T01,06:06:00,06:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T01,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T01,06:12:00,06:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T01,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T01,06:15:00,06:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T01,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T01,06:20:00,06:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T01,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T01,06:27:00,06:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T01,06:30:00,06:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T01,06:32:00,06:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T01,06:50:00,06:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T01,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T01,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T01,07:00:00,07:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T02,08:00:00,08:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T02,08:03:00,08:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T02,08:06:00,08:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T02,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T02,08:12:00,08:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T02,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T02,08:15:00,08:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T02,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T02,08:20:00,08:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T02,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T02,08:27:00,08:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T02,08:30:00,08:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T02,08:32:00,08:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T02,08:50:00,08:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T02,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T02,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T02,09:00:00,09:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T03,09:00:00,09:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T03,09:03:00,09:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T03,09:06:00,09:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T03,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T03,09:12:00,09:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T03,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T03,09:15:00,09:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T03,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T03,09:20:00,09:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T03,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T03,09:27:00,09:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T03,09:30:00,09:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T03,09:32:00,09:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T03,09:50:00,09:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T03,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T03,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T03,10:00:00,10:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T04,10:00:00,10:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T04,10:03:00,10:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T04,10:06:00,10:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T04,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T04,10:12:00,10:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T04,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T04,10:15:00,10:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T04,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T04,10:20:00,10:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T04,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T04,10:27:00,10:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T04,10:30:00,10:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T04,10:32:00,10:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T04,10:50:00,10:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T04,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T04,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T04,11:00:00,11:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T05,11:00:00,11:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T05,11:03:00,11:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T05,11:06:00,11:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T05,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T05,11:12:00,11:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T05,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T05,11:15:00,11:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T05,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T05,11:20:00,11:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T05,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T05,11:27:00,11:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T05,11:30:00,11:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T05,11:32:00,11:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T05,11:50:00,11:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T05,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T05,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T05,12:00:00,12:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T06,12:00:00,12:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T06,12:03:00,12:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T06,12:06:00,12:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T06,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T06,12:12:00,12:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T06,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T06,12:15:00,12:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T06,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T06,12:20:00,12:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T06,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T06,12:27:00,12:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T06,12:30:00,12:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T06,12:32:00,12:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T06,12:50:00,12:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T06,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T06,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T06,13:00:00,13:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T07,13:00:00,13:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T07,13:03:00,13:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T07,13:06:00,13:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T07,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T07,13:12:00,13:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T07,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T07,13:15:00,13:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T07,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T07,13:20:00,13:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T07,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T07,13:27:00,13:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T07,13:30:00,13:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T07,13:32:00,13:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T07,13:50:00,13:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T07,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T07,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T07,14:00:00,14:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T08,14:00:00,14:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T08,14:03:00,14:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T08,14:06:00,14:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T08,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T08,14:12:00,14:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T08,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T08,14:15:00,14:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T08,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T08,14:20:00,14:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T08,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T08,14:27:00,14:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T08,14:30:00,14:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T08,14:32:00,14:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T08,14:50:00,14:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T08,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T08,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T08,15:00:00,15:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T09,15:00:00,15:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T09,15:03:00,15:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T09,15:06:00,15:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T09,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T09,15:12:00,15:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T09,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T09,15:15:00,15:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T09,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T09,15:20:00,15:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T09,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T09,15:27:00,15:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T09,15:30:00,15:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T09,15:32:00,15:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T09,15:50:00,15:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T09,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T09,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T09,16:00:00,16:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T10,16:00:00,16:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T10,16:03:00,16:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T10,16:06:00,16:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T10,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T10,16:12:00,16:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T10,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T10,16:15:00,16:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T10,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T10,16:20:00,16:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T10,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T10,16:27:00,16:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T10,16:30:00,16:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T10,16:32:00,16:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T10,16:50:00,16:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T10,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T10,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T10,17:00:00,17:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T11,17:00:00,17:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T11,17:03:00,17:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T11,17:06:00,17:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T11,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T11,17:12:00,17:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T11,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T11,17:15:00,17:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T11,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T11,17:20:00,17:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T11,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T11,17:27:00,17:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T11,17:30:00,17:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T11,17:32:00,17:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T11,17:50:00,17:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T11,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T11,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T11,18:00:00,18:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington_T12,18:00:00,18:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington_T12,18:03:00,18:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington_T12,18:06:00,18:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington_T12,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington_T12,18:12:00,18:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington_T12,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington_T12,18:15:00,18:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington_T12,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington_T12,18:20:00,18:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington_T12,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington_T12,18:27:00,18:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington_T12,18:30:00,18:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington_T12,18:32:00,18:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington_T12,18:50:00,18:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington_T12,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington_T12,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington_T12,19:00:00,19:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington short_T01,07:00:00,07:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington short_T01,07:03:00,07:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington short_T01,07:06:00,07:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington short_T01,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington short_T01,07:12:00,07:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington short_T01,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington short_T01,07:15:00,07:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington short_T01,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington short_T01,,,6_DPW,9,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington short_T01,07:27:00,07:27:00,7PW,10,Walmart,,,,,,1
+Phillipsburg to Washington short_T01,07:30:00,07:30:00,8PW,11,Shoprite,,,,,,1
+Phillipsburg to Washington short_T01,07:32:00,07:32:00,9PW,12,Warren County Community College,,,,,,1
+Phillipsburg to Washington short_T01,07:50:00,07:50:00,10PW,13,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington short_T01,,,10_DPW_1,14,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington short_T01,,,10_DPW_2,15,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington short_T01,08:00:00,08:00:00,11PW,16,,,,,,,1
+Washington to Phillipsburg_T01,07:00:00,07:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T01,07:03:00,07:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T01,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T01,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T01,07:23:00,07:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T01,07:25:00,07:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T01,07:30:00,07:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T01,07:40:00,07:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T01,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T01,07:49:00,07:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T01,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T01,07:50:00,07:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T01,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T01,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T01,07:55:00,07:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T01,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T01,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T01,08:00:00,08:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg_T02,09:00:00,09:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T02,09:03:00,09:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T02,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T02,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T02,09:23:00,09:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T02,09:25:00,09:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T02,09:30:00,09:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T02,09:40:00,09:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T02,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T02,09:49:00,09:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T02,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T02,09:50:00,09:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T02,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T02,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T02,09:55:00,09:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T02,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T02,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T02,10:00:00,10:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg_T03,11:00:00,11:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T03,11:03:00,11:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T03,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T03,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T03,11:23:00,11:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T03,11:25:00,11:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T03,11:30:00,11:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T03,11:40:00,11:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T03,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T03,11:49:00,11:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T03,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T03,11:50:00,11:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T03,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T03,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T03,11:55:00,11:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T03,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T03,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T03,12:00:00,12:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg_T04,13:00:00,13:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T04,13:03:00,13:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T04,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T04,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T04,13:23:00,13:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T04,13:25:00,13:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T04,13:30:00,13:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T04,13:40:00,13:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T04,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T04,13:49:00,13:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T04,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T04,13:50:00,13:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T04,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T04,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T04,13:55:00,13:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T04,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T04,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T04,14:00:00,14:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg_T05,15:00:00,15:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T05,15:03:00,15:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T05,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T05,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T05,15:23:00,15:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T05,15:25:00,15:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T05,15:30:00,15:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T05,15:40:00,15:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T05,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T05,15:49:00,15:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T05,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T05,15:50:00,15:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T05,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T05,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T05,15:55:00,15:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T05,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T05,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T05,16:00:00,16:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg_T06,17:00:00,17:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg_T06,17:03:00,17:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg_T06,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg_T06,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg_T06,17:23:00,17:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg_T06,17:25:00,17:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg_T06,17:30:00,17:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg_T06,17:40:00,17:40:00,16PW,8,Broad Street and Main Street,,,,,,1
+Washington to Phillipsburg_T06,,,16_DPW,9,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg_T06,17:49:00,17:49:00,17PW,10,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg_T06,,,17_DPW,11,Shappell Park,2,2,,,,
+Washington to Phillipsburg_T06,17:50:00,17:50:00,18PW,12,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg_T06,,,18_DPW_1,13,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg_T06,,,18_DPW_2,14,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg_T06,17:55:00,17:55:00,19PW,15,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg_T06,,,19_DPW_1,16,Elder Ave.,2,2,,,,
+Washington to Phillipsburg_T06,,,19_DPW_2,17,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg_T06,18:00:00,18:00:00,20PW,18,,,,,,,1
+Washington to Phillipsburg short_T01,08:00:00,08:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T01,08:03:00,08:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T01,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T01,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T01,08:23:00,08:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T01,08:25:00,08:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T01,08:30:00,08:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T01,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T01,08:49:00,08:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T01,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T01,08:50:00,08:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T01,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T01,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T01,08:55:00,08:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T01,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T01,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T01,09:00:00,09:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg short_T02,10:00:00,10:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T02,10:03:00,10:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T02,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T02,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T02,10:23:00,10:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T02,10:25:00,10:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T02,10:30:00,10:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T02,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T02,10:49:00,10:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T02,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T02,10:50:00,10:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T02,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T02,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T02,10:55:00,10:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T02,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T02,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T02,11:00:00,11:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg short_T03,12:00:00,12:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T03,12:03:00,12:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T03,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T03,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T03,12:23:00,12:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T03,12:25:00,12:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T03,12:30:00,12:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T03,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T03,12:49:00,12:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T03,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T03,12:50:00,12:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T03,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T03,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T03,12:55:00,12:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T03,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T03,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T03,13:00:00,13:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg short_T04,14:00:00,14:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T04,14:03:00,14:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T04,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T04,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T04,14:23:00,14:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T04,14:25:00,14:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T04,14:30:00,14:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T04,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T04,14:49:00,14:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T04,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T04,14:50:00,14:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T04,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T04,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T04,14:55:00,14:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T04,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T04,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T04,15:00:00,15:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg short_T05,16:00:00,16:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T05,16:03:00,16:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T05,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T05,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T05,16:23:00,16:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T05,16:25:00,16:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T05,16:30:00,16:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T05,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T05,16:49:00,16:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T05,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T05,16:50:00,16:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T05,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T05,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T05,16:55:00,16:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T05,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T05,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T05,17:00:00,17:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg short_T06,18:00:00,18:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg short_T06,18:03:00,18:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg short_T06,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg short_T06,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg short_T06,18:23:00,18:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg short_T06,18:25:00,18:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg short_T06,18:30:00,18:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg short_T06,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg short_T06,18:49:00,18:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg short_T06,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg short_T06,18:50:00,18:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg short_T06,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg short_T06,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg short_T06,18:55:00,18:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg short_T06,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg short_T06,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg short_T06,19:00:00,19:00:00,20PW,17,,,,,,,1
+Phillipsburg to Washington sat_T01,09:00:00,09:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington sat_T01,09:03:00,09:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington sat_T01,09:06:00,09:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington sat_T01,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington sat_T01,09:12:00,09:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington sat_T01,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington sat_T01,09:15:00,09:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington sat_T01,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington sat_T01,09:20:00,09:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington sat_T01,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington sat_T01,09:27:00,09:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington sat_T01,09:30:00,09:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington sat_T01,09:32:00,09:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington sat_T01,09:50:00,09:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington sat_T01,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington sat_T01,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington sat_T01,10:00:00,10:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington sat_T02,11:00:00,11:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington sat_T02,11:03:00,11:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington sat_T02,11:06:00,11:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington sat_T02,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington sat_T02,11:12:00,11:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington sat_T02,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington sat_T02,11:15:00,11:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington sat_T02,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington sat_T02,11:20:00,11:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington sat_T02,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington sat_T02,11:27:00,11:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington sat_T02,11:30:00,11:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington sat_T02,11:32:00,11:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington sat_T02,11:50:00,11:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington sat_T02,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington sat_T02,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington sat_T02,12:00:00,12:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington sat_T03,13:00:00,13:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington sat_T03,13:03:00,13:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington sat_T03,13:06:00,13:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington sat_T03,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington sat_T03,13:12:00,13:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington sat_T03,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington sat_T03,13:15:00,13:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington sat_T03,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington sat_T03,13:20:00,13:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington sat_T03,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington sat_T03,13:27:00,13:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington sat_T03,13:30:00,13:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington sat_T03,13:32:00,13:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington sat_T03,13:50:00,13:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington sat_T03,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington sat_T03,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington sat_T03,14:00:00,14:00:00,11PW,17,,,,,,,1
+Phillipsburg to Washington sat_T04,15:00:00,15:00:00,1PW,1,Anderson/Heckman Street,,,,,,1
+Phillipsburg to Washington sat_T04,15:03:00,15:03:00,2PW,2,Center/Walnut Street,,,,,,1
+Phillipsburg to Washington sat_T04,15:06:00,15:06:00,3PW,3,Abbot/Sitegreaves Street,,,,,,1
+Phillipsburg to Washington sat_T04,,,3_DPW,4,Shappell Park,2,2,,,,
+Phillipsburg to Washington sat_T04,15:12:00,15:12:00,4PW,5,O'Donnell Apartments,,,,,,1
+Phillipsburg to Washington sat_T04,,,4_DPW,6,One Stop Career Ctr- Old Location,2,2,,,,
+Phillipsburg to Washington sat_T04,15:15:00,15:15:00,5PW,7,Broad and South Main,,,,,,1
+Phillipsburg to Washington sat_T04,,,5_DPW,8,Summit Ave and Morris Street,2,2,,,,
+Phillipsburg to Washington sat_T04,15:20:00,15:20:00,6PW,9,Phillipsburg Mall,,,,,,1
+Phillipsburg to Washington sat_T04,,,6_DPW,10,Pohatcong Plaza,2,2,,,,
+Phillipsburg to Washington sat_T04,15:27:00,15:27:00,7PW,11,Walmart,,,,,,1
+Phillipsburg to Washington sat_T04,15:30:00,15:30:00,8PW,12,Shoprite,,,,,,1
+Phillipsburg to Washington sat_T04,15:32:00,15:32:00,9PW,13,Warren County Community College,,,,,,1
+Phillipsburg to Washington sat_T04,15:50:00,15:50:00,10PW,14,Rt 57 and Prospect Street,,,,,,1
+Phillipsburg to Washington sat_T04,,,10_DPW_1,15,Vannatta St. and Route 57 E,2,2,,,,
+Phillipsburg to Washington sat_T04,,,10_DPW_2,16,Abilities of NW New Jersey - Transfer Point for Washington to Hackettstown,2,2,,,,
+Phillipsburg to Washington sat_T04,16:00:00,16:00:00,11PW,17,,,,,,,1
+Washington to Phillipsburg sat_T01,10:00:00,10:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg sat_T01,10:03:00,10:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg sat_T01,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg sat_T01,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg sat_T01,10:23:00,10:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg sat_T01,10:25:00,10:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg sat_T01,10:30:00,10:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg sat_T01,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg sat_T01,10:49:00,10:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg sat_T01,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg sat_T01,10:50:00,10:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg sat_T01,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg sat_T01,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg sat_T01,10:55:00,10:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg sat_T01,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg sat_T01,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg sat_T01,11:00:00,11:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg sat_T02,14:00:00,14:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg sat_T02,14:03:00,14:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg sat_T02,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg sat_T02,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg sat_T02,14:23:00,14:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg sat_T02,14:25:00,14:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg sat_T02,14:30:00,14:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg sat_T02,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg sat_T02,14:49:00,14:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg sat_T02,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg sat_T02,14:50:00,14:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg sat_T02,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg sat_T02,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg sat_T02,14:55:00,14:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg sat_T02,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg sat_T02,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg sat_T02,15:00:00,15:00:00,20PW,17,,,,,,,1
+Washington to Phillipsburg sat_T03,16:00:00,16:00:00,11PW,1,,,,,,,1
+Washington to Phillipsburg sat_T03,16:03:00,16:03:00,12PW,2,S. Prospect Street,,,,,,1
+Washington to Phillipsburg sat_T03,,,12_DPW,3,Warren County Community College,2,2,,,,
+Washington to Phillipsburg sat_T03,,,12_DPW_1,4,Pohatcong Plaza,2,2,,,,
+Washington to Phillipsburg sat_T03,16:23:00,16:23:00,13PW,5,Walmart,,,,,,1
+Washington to Phillipsburg sat_T03,16:25:00,16:25:00,14PW,6,Shoprite,,,,,,1
+Washington to Phillipsburg sat_T03,16:30:00,16:30:00,15PW,7,S. Hillcrest and Rt 22 W,,,,,,1
+Washington to Phillipsburg sat_T03,,,16_DPW,8,Market Street and South Main Street,2,2,,,,
+Washington to Phillipsburg sat_T03,16:49:00,16:49:00,17PW,9,O'Donnell Apartments,,,,,,1
+Washington to Phillipsburg sat_T03,,,17_DPW,10,Shappell Park,2,2,,,,
+Washington to Phillipsburg sat_T03,16:50:00,16:50:00,18PW,11,Abbott Street and Sitgreaves Street,,,,,,1
+Washington to Phillipsburg sat_T03,,,18_DPW_1,12,Center Street and  Green,2,2,,,,
+Washington to Phillipsburg sat_T03,,,18_DPW_2,13,Anderson Street and Heckman Street,2,2,,,,
+Washington to Phillipsburg sat_T03,16:55:00,16:55:00,19PW,14,Marshall Street and Bates Street,,,,,,1
+Washington to Phillipsburg sat_T03,,,19_DPW_1,15,Elder Ave.,2,2,,,,
+Washington to Phillipsburg sat_T03,,,19_DPW_2,16,St. Lukes Warren Campus,2,2,,,,
+Washington to Phillipsburg sat_T03,17:00:00,17:00:00,20PW,17,,,,,,,1

@@ -1,0 +1,9 @@
+﻿fare_id,route_id,origin_id,destination_id,contains_id
+1,CAT1R,,,
+1,CAT2R,,,
+1,DASH851,,,
+1,DASH852,,,
+1,SCOOT,,,
+1,SCOOTR1,,,
+1,SCOOTR2,,,
+1,CAT3R,,,

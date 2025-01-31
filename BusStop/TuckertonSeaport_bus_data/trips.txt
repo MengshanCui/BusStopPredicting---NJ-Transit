@@ -1,0 +1,9 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+Ferry,ssm,Outbound_T01,To Beach Haven,0,,LBIFERRY_OU,1,1
+Ferry,ssm,Outbound_T02,To Beach Haven,0,,LBIFERRY_OU,1,1
+Ferry,ssm,Outbound_T03,To Beach Haven,0,,LBIFERRY_OU,1,1
+Ferry,ssm,Outbound_T04,To Beach Haven,0,,LBIFERRY_OU,1,1
+Ferry,ssm,Inbound_T01,To Tuckerton,1,,LBIFERRY_IN,1,1
+Ferry,ssm,Inbound_T02,To Tuckerton,1,,LBIFERRY_IN,1,1
+Ferry,ssm,Inbound_T03,To Tuckerton,1,,LBIFERRY_IN,1,1
+Ferry,ssm,Inbound_T04,To Tuckerton,1,,LBIFERRY_IN,1,1

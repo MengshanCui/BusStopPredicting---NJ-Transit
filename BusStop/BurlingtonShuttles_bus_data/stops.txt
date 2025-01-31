@@ -1,0 +1,28 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+BUR-1,,Beverly Rail Station,,40.061113,-74.915342,,,,,,1
+BUR-2,,Willingboro Town Center,,40.052831,-74.89168,,,,,,1
+BUR-3,,Sunset Road at Hospital Drive,,40.048614,-74.880951,,,,,,1
+BUR-4,,Woodlane Road at Springside Road,,40.024002,-74.855339,,,,,,1
+BUR-5,,Tarnsfield at Woodlane,,40.011864,-74.807045,,,,,,1
+BUR-6,,Cross Roads Plaza at Route 38,,39.981025,-74.807469,,,,,,1
+BUR-7,,County Admin/Courts Rancocas Road,,39.994889,-74.789667,,,,,,1
+BUR-8,,Fairgrounds Plaza,,40.005381,-74.794157,,,,,,1
+BUR-9,,Burlington County College,,39.965023,-74.645212,,,,,,1
+BUR-10,,Trenton Road at Broadway,,39.973527,-74.583979,,,,,,1
+BUR-11,,Spring Lake at Tecumseh Trail,,39.940364,-74.544976,,,,,,1
+BUR-12,,Trenton Road at Broadway,,39.973335,-74.58356,,,,,,1
+BUR-13,,Burlington County College,,39.964698,-74.643661,,,,,,1
+BUR-14,,County Admin/Courts Rancocas Road,,39.995096,-74.78971,,,,,,1
+BUR-15,,Tarnsfield Road at Woodlane Road,,40.012147,-74.806986,,,,,,1
+BUR-16,,Woodlane Road at Springside Road,,40.024306,-74.855569,,,,,,1
+BUR-17,,Sunset Road at Hospital Drive,,40.04886,-74.880952,,,,,,1
+BUR-18,,Salem Road at Municipal Building,,40.030023,-74.895664,,,,,,1
+BUR-19,,Millbrook Dive at JFK Way,,40.020785,-74.884526,,,,,,1
+BUR-20,,Ikea Drive at Stemmers Lane,,40.01634,-74.850293,,,,,,1
+BUR-21,,Genesee Lane at JFK Way,,40.020035,-74.884497,,,,,,1
+BUR-22,,Salem Road at Municipal Building,,40.029979,-74.895445,,,,,,1
+BUR-23,,Florence Rail Station,,40.099698,-74.805381,,,,,,1
+BUR-24,,Dulty's Lane near Route 130,,40.094109,-74.813775,,,,,,1
+BUR-25,,Railroad Ave Near Cedar Lane,,40.105409,-74.794106,,,,,,1
+BUR-26,,Route 130 at Delaware Ave,,40.106593,-74.783699,,,,,,1
+BUR-27,,Amazon Distribution Center,,40.109648,-74.798863,,,,,,1

@@ -1,0 +1,986 @@
+stop_id,stop_city
+2332649,Kirkland
+2577942,Burnside
+2624051,Milwaukee
+3453535,Brandy Station
+2332707,Jacksonville
+2751696,Fair Oaks
+2618021,Princeton
+2578202,Town of Thompson
+2428746,Kenosha
+2619376,Town of Clarkstown
+2576781,Evans Center
+2332494,White Marsh
+2577608,New York
+2576779,Kennedy
+2577662,Newburgh
+2576761,Buffalo
+2578185,Wyckoff
+2577522,Prospect Plains
+3475192,Village of Pewaukee
+2580904,Town of Mamakating
+2577840,Westfall Township
+2619540,Alpine
+2616192,Harrison
+2616122,Town of Ramapo
+2577298,Valley Cottage
+2753582,Town of Blooming Grove
+2577683,Southfields
+2577549,Sunset Hill Garden
+2577842,Palm Tree
+2577826,Manhattan Community Board 4
+2577648,Ladentown
+2577461,Elizabeth
+4211697,Los Angeles 
+3475194,Nashotah
+835753,Racine
+2428738,Milwaukee
+2577478,Elizabeth
+3475143,Waukesha
+2577714,Town of Mamakating
+4211691,San Antonio
+3475136,Waukesha
+2582984,Manhattan Community Board 5
+2577966,East Orange
+2577805,Mahwah
+2577426,Manhattan Community Board 5
+4244534,New York
+2577837,Milford Township
+2577560,Franklin Park
+2624029,West Bend
+2578034,East Coldenham
+2579592,Wyckoff
+2577350,Montvale
+2616151,Harrison
+2332631,Katy
+835757,Kenosha
+2332695,Philadelphia
+2577349,Samsondale
+4212281,Milwaukee
+2616148,White Plains
+2577625,Manhattan Community Board 8
+2577808,Oakland
+2577696,Newburgh Junction
+3476611,West Orange
+2577775,Town of Thompson
+4208622,Newark
+2577927,South Fallsburg
+2577312,Fort Lee
+2577681,Town of Goshen
+2577444,East Orange
+2576782,Black Creek
+2577979,Hillsdale Manor
+2577448,East Orange
+2579606,Town of Monroe
+2624034,Milwaukee
+2584295,Crystal Run Station
+2619548,Town of Clarkstown
+4211706,Niagara Falls
+2577959,Tappan
+2581573,Summitville
+2576738,Fredonia
+2577778,Town of Thompson
+2577293,Chestnut Ridge
+2577139,Manhattan Community Board 5
+2577394,Tenafly
+2577467,City of Orange
+2734374,New York
+2577724,Binghamton
+2577307,Alpine
+4211693,King of Prussia
+3475165,Hartland
+2578184,Wyckoff
+2577904,New Brunswick
+835777,Milwaukee
+2577536,Manhattan Community Board 5
+2576778,Pittsburgh
+2577845,Manhattan Community Board 5
+835883,Ives Grove
+2428723,Racine
+3475134,Waukesha
+2618214,Appleton
+2619542,Pearl River
+2577403,Town of Orangetown
+2616128,Town of Orangetown
+835735,Milwaukee
+2581606,East Honesdale
+2332637,New Orleans
+2616140,White Plains
+2428748,Kenosha
+2428749,Kenosha
+2577352,Hillsdale Manor
+2577936,Harris
+2577758,East Coldenham
+2577400,Closter
+2616149,Harrison
+2577655,Fort Montgomery
+2615675,Midway Park
+2577380,Teaneck Township
+835739,Whitewater
+2628769,Milwaukee
+2577392,Demarest
+2584298,East Chester
+2619547,Pearl River
+3475142,Waukesha
+2579600,Wyckoff
+2750962,New York
+2579590,Wyckoff
+2615676,Midway Park
+2577491,Manhattan Community Board 4
+2577294,Manhattan Community Board 5
+2577138,Manhattan Community Board 1
+835756,Village of Somers
+2577636,Summitville
+2577957,Englewood
+2577548,Franklin Park
+2577692,Manhattan Community Board 1
+2577569,Manhattan Community Board 5
+2577310,Englewood Cliffs
+2615661,Kiryas Joel
+2577385,Blauvelt
+2734375,New York
+2577457,Newark
+4208625,Newark
+2577757,East Coldenham
+2577440,Hutton Park
+2577695,Town of Monroe
+4211692,Houston
+2577679,East Chester
+2577793,Manhattan Community Board 5
+4212280,Milwaukee
+835746,Milwaukee
+2577811,Wyckoff
+2577829,New Hampton
+2577667,Ho-Ho-Kus
+3453523,Danville
+2332663,Montgomery
+2740417,Conroe
+3453528,Altavista
+2577368,Park Ridge
+2581572,Wawarsing
+2577609,Manhattan Community Board 6
+2577948,Manhattan Community Board 8
+2577824,Manhattan Community Board 5
+2332573,Manhattan Community Board 5
+4211694,Memphis
+2576748,Burnhams
+2624059,Milwaukee
+2428734,Racine
+2751694,Philadelphia
+2576753,Machias Junction
+2332560,Richmond
+2428744,Kenosha
+2332555,Mobile
+2577680,Town of Goshen
+2578165,Town of Haverstraw
+2577386,Blauvelt
+2332654,White Marsh
+2332557,Elizabeth
+2578194,Oakland
+2576803,Wanakah
+2428725,Racine
+2577320,Englewood Cliffs
+2578216,East Chester
+2580901,Thompsonville
+2577747,Mechanicstown
+2577813,Wyckoff
+2577759,East Coldenham
+2576735,Fredonia
+2577398,Cresskill
+2577351,Park Ridge
+2624058,Milwaukee
+2577659,Highland Mills
+2577613,New York
+2578153,Mountainville
+2577153,Town of Clarkstown
+2577791,New York
+2577682,East Chester
+2576722,Cadiz
+2624056,Milwaukee
+2629102,New York
+2578182,Wyckoff
+2577402,Town of Orangetown
+2577626,Manhattan Community Board 6
+2577792,Central Valley
+2619539,Alpine
+2576791,Randolph
+2577661,Vails Gate
+2578223,Town of Thompson
+2581595,Wyckoff
+2577653,Tomkins Cove
+2576780,Pittsburgh
+2577783,Harris
+2616146,White Plains
+2750790,Sacramento
+2577348,Durant
+3453537,Gainesville
+2577650,Town of Haverstraw
+3475166,Brookfield
+2577545,New Brunswick
+2577292,Town of Clarkstown
+2615659,Englewood
+2428729,Racine
+2577387,Town of Orangetown
+2578171,Ramsey
+2577300,Town of Clarkstown
+2576783,Marshall Township
+2578035,Coldenham
+2428726,Oak Creek
+2577795,Manhattan Community Board 5
+2577699,Town of Tuxedo
+2616150,White Plains
+835774,Oak Creek
+2577651,Town of Haverstraw
+2577976,Montvale
+2577542,Manhattan Community Board 5
+2577375,Manhattan Community Board 5
+2332713,Birmingham
+2584292,Midway Park
+2577309,Englewood Cliffs
+2577459,Newstead North
+2578179,Secaucus
+835740,Milton
+2428742,Racine
+2578183,Wyckoff
+3475139,Waukesha
+2577469,Elizabeth
+2576751,Fredonia
+3453525,South Boston
+835813,South Beloit
+2629105,New York
+2577432,Northfield
+2577547,Sixmile Run
+2577788,New York
+2577369,Mount Ivy
+2577701,Town of Tuxedo
+2581431,Ramapo
+2576750,Aurora
+2578172,Town of Ramapo
+2577299,Town of Clarkstown
+2578203,Roscoe
+2577630,Pine Bush
+2577776,Kiamesha Lake
+4211698,Anaheim
+2576760,Burnhams
+2577930,Town of Thompson
+3453795,Toronto
+3475140,Waukesha
+2577764,Town of Fallsburg
+2577955,Palisades Park
+835752,Racine
+2428739,Milwaukee
+2577428,East Orange
+2577476,Elizabeth
+2577771,Town of Fallsburg
+2582982,Manhattan Community Board 5
+2577481,City of Orange
+2576797,Evans Center
+2624048,Milwaukee
+2577331,Rockland Lake
+2629099,New York
+2577817,Manhattan Community Board 1
+2577657,US Military Academy - West Point
+2577960,Blauvelt
+2619546,Pearl River
+2578164,Ramsey
+835759,Kenosha
+2578176,Town of Tuxedo
+2577833,West Hawley
+2581571,Wawarsing
+2577328,Town of Orangetown
+4211702,Atlanta
+2578174,Town of Tuxedo
+2578168,Samsondale
+2577325,Sparkill
+2624036,Wauwatosa
+2580906,New Hampton
+2577562,North Princeton
+2578199,Wyckoff
+2577649,Town of Haverstraw
+2577611,Manhattan Community Board 8
+2577836,Delaware Township
+3475164,Okauchee Lake
+2577160,Manhattan Community Board 4
+2577690,Manhattan Community Board 1
+3453514,Dallas
+2579588,Franklin Lakes
+3475198,Milwaukee
+2332537,Austin
+2577363,Hillsdale
+4244535,New York
+2578037,Town of Montgomery
+2577629,Wurtsboro Hills
+835742,Janesville
+2332561,Pittsburgh
+2624053,Milwaukee
+2615678,East Chester
+3880676,La Crosse
+2577923,Loch Sheldrake
+2332525,St. Paul
+2577381,Englewood
+2577540,New York
+2577341,Central Nyack
+2576734,Farnham
+2577620,Worley Heights
+2577470,Elizabeth
+2577578,Prospect Plains
+835733,Chicago
+2618217,Fond du Lac
+835884,Kenosha
+2576723,Machias Junction
+2577772,Kiamesha Lake
+2577761,East Chester
+2577790,Manhattan Community Board 6
+2577353,Hillsdale
+2577709,Paramus
+2579586,Oakland
+2428747,Kenosha
+2576740,Holland
+2576768,Evans Center
+2332587,Niagara Falls
+2577337,Town of Clarkstown
+2577479,Elizabeth
+2578195,Franklin Lakes
+2577391,Closter
+2577360,Hillsdale
+2577841,Tristates
+2577393,Cresskill
+2616197,Town of Greenburgh
+2577610,Manhattan Community Board 5
+2616124,Town of Clarkstown
+2332595,Scarborough
+2577810,Franklin Lakes
+2577311,Fort Lee
+2577541,Manhattan Community Board 6
+2576775,Falconer
+3475197,Oconomowoc
+3453531,Lynchburg
+2576762,Aurora
+2616125,Town of Orangetown
+3475201,Milwaukee
+2619544,Hackensack
+2577585,Livingston Manor
+2577465,East Orange
+2577327,Town of Orangetown
+2576730,Wanakah
+2624050,Milwaukee
+2576746,Farnham
+3475155,Waukesha
+2581649,Milford
+2584302,Town of Monroe
+2577567,Manhattan Community Board 5
+2624035,Milwaukee
+2577616,Town of Montgomery
+2578154,Highland Mills
+2577633,Town of Wawarsing
+2619543,Pearl River
+2616145,White Plains
+2751697,Fair Oaks
+835736,Milwaukee
+2577831,East Honesdale
+2615681,Manhattan Community Board 4
+2578152,Vails Gate
+2618020,Princeton
+2576747,Saint Bonaventure
+2629098,New York
+2577475,Elizabeth
+2579579,Antrim
+4211552,Villa Roma
+2619537,Englewood Cliffs
+2332684,Minneapolis
+2577920,Town of Liberty
+2624037,Milwaukee
+835741,Janesville
+835778,Milwaukee
+3475195,Okauchee Lake
+2616195,White Plains
+2581601,West Hawley
+3475144,Town of Brookfield
+3453521,Martinsville
+2577148,Manhattan Community Board 5
+3475135,Waukesha
+2577806,Mahwah
+2332619,West Hollywood
+2576798,Allegany
+2428724,Racine
+2577296,New City
+2576807,Salamanca
+2577454,Newstead North
+2456275,Caledonia
+2332594,Woodycrest
+2577963,Teaneck Township
+2629096,New York
+2577304,Sparkill
+2577706,Saddle River
+2577321,Englewood Cliffs
+2577711,Manhattan Community Board 5
+3453533,Amherst
+2578039,East Coldenham
+2577627,Cragsmoor
+835750,Racine
+2577812,Wyckoff
+2579589,Wyckoff
+2584296,Town of Goshen
+2579593,Wyckoff
+2576763,Marshall Township
+2578177,Palm Tree
+2577388,Town of Orangetown
+2332589,Manhattan Community Board 5
+3475196,Okauchee Lake
+2577430,Hutton Park
+835738,East Troy
+2584303,Newburgh Junction
+835770,Racine
+3453518,Charlotte
+2576776,Lake Erie Beach
+2577416,Emerson
+2735479,West Cornwall
+2576728,Silver Creek
+2577672,Hasbrouck Heights
+3475153,Waukesha
+4230368,Chicago
+2624031,Milwaukee
+2577333,Town of Stony Point
+2629103,New York
+2576788,Little Valley
+2616127,Town of Orangetown
+2332505,Manhattan Community Board 5
+3446435,Nanuet
+2577370,Hillcrest
+2577154,Town of Clarkstown
+2577698,Newburgh Junction
+2616194,White Plains
+2582986,Manhattan Community Board 5
+2580737,Town of Goshen
+2577751,Midway Park
+2428722,Racine
+2576727,Wanakah
+2619545,Hackensack
+4212278,Milwaukee
+2577673,Rutherford
+2577825,Manhattan Community Board 4
+2577700,Southfields
+2577975,Park Ridge
+2577797,Manhattan Community Board 5
+2577303,Sparkill
+2577678,Fair Oaks
+2577750,East Coldenham
+2577306,Palisades
+2577656,Town of Highlands
+2577446,City of Orange
+2579599,Mahwah
+835787,Whitewater
+2579594,Wyckoff
+2577477,Elizabeth
+2577827,Manhattan Community Board 4
+2577749,East Coldenham
+2577804,Manhattan Community Board 5
+2577395,Town of Clarkstown
+3453529,Farmville
+2578192,Oakland
+2577952,Manhattan Community Board 5
+2581574,Summitville
+2578032,East Coldenham
+2578163,Fort Montgomery
+2577408,Englewood
+2616133,Town of Greenburgh
+2577483,East Orange
+2332641,Montréal
+2576808,Olean
+2576767,Wanakah
+2576792,Wanakah
+2577156,Manhattan Community Board 5
+2624043,Wauwatosa
+2577768,Loch Sheldrake
+2577336,Germonds
+2577482,East Orange
+2579597,Wyckoff
+2616193,Town of Greenburgh
+2576743,Fredonia
+2579587,Franklin Lakes
+2428736,Milwaukee
+2577612,Manhattan Community Board 8
+2577297,Rockland Lake
+2581430,Ramapo
+2624032,Village of Germantown
+835737,Muskego
+2578173,Town of Highlands
+2577330,Valley Cottage
+2584299,East Chester
+2579596,Wyckoff
+2579585,Oakland
+2577455,Newark
+2582987,Manhattan Community Board 5
+2576773,Evans Center
+2577421,Oradell
+2582981,Manhattan Community Board 5
+2577422,Oradell
+2577748,Mechanicstown
+2577308,Tenafly
+2577397,Tenafly
+2580903,Town of Mamakating
+2577654,Fort Clinton
+2577383,Palisades Park
+2577666,Ridgewood
+2577464,Newark
+2577823,New York
+4212231,Chicago Downtown
+2577708,Paramus
+2629104,New York
+2577643,Firthcliffe
+2615677,East Chester
+2751219,Fort Lee
+3475156,Waukesha
+2616198,Antrim
+2428735,Kenosha
+2624028,Village of Richfield
+2616134,White Plains
+2579580,Oakland
+2578197,Wyckoff
+835812,Rockford
+2577926,Town of Fallsburg
+2577712,Town of Mamakating
+2332565,Newark
+2576764,Falconer
+2577550,Kingston
+2576766,Holland
+2662963,New York
+2576752,Bradford Junction
+2577822,New York
+4211699,Bakersfield
+2628768,Milwaukee
+2578189,Oakland
+2577624,Manhattan Community Board 10
+2616142,White Plains
+2577929,Kiamesha Lake
+2577945,New York
+2577157,Manhattan Community Board 5
+2577471,City of Orange
+2577735,Ramsey
+2582980,Manhattan Community Board 5
+835782,Milwaukee
+2577980,Town of Ramapo
+2428737,Milwaukee
+2576774,Bradford Junction
+2581602,Wilsonville
+3475148,Waukesha
+2629097,New York
+3475150,Waukesha
+2332661,Fronton Trailer Park
+2577347,Germonds
+2577646,Newburgh
+2577314,Town of Clarkstown
+2616130,Town of Greenburgh
+2577484,Manhattan Community Board 4
+2581667,Westwood
+2629070,Paramus
+2577647,Town of Ramapo
+2577485,Manhattan Community Board 4
+2577830,East Honesdale
+2577769,Loch Sheldrake
+2578186,Wyckoff
+2576793,Saint Bonaventure
+2577301,Town of Orangetown
+2577435,Morehousetown
+2577433,Morehousetown
+2578196,Franklin Lakes
+835749,Oak Creek
+2436455,Staunton
+2577844,Ridgewood
+2577784,Town of Thompson
+2619380,Town of Clarkstown
+2577753,Town of Montgomery
+2577946,Manhattan Community Board 11
+2332662,Baton Rouge
+2577534,Manhattan Community Board 4
+2577762,Ridgewood
+2577773,Town of Liberty
+2577472,Elizabeth
+2584293,Midway Park
+2616135,White Plains
+2577770,Fallsburg
+2579583,Oakland
+2577906,Sixmile Run
+3453534,Charlottesville
+2577932,Town of Fallsburg
+2580899,Town of Liberty
+835772,Racine
+2577463,Newark
+2577819,Manhattan Community Board 1
+835783,Town of Brookfield
+2577614,New York
+2577703,Ramsey
+2582988,Manhattan Community Board 5
+2577969,Northfield
+2577634,Spring Glen
+2577815,Central Valley
+2332520,St. Catharines
+2624039,Milwaukee
+3475204,Milwaukee
+2577623,New York
+2332471,Lake Waubesa
+2628785,Wauwatosa
+2577466,East Orange
+2577968,Saint Cloud
+2456276,Caledonia
+2577697,Town of Monroe
+2576796,East Randolph
+2577685,Crystal Run Station
+2577928,Town of Thompson
+2578228,Parksville
+2577335,Durant
+2577670,Ramsey
+2577981,Hillcrest
+3475199,Milwaukee
+2577664,Paramus
+2577621,Manhattan Community Board 12
+3475203,Milwaukee
+3475154,Waukesha
+2577582,Stilesville
+2332617,Manhattan Community Board 4
+2584624,East Chester
+2577431,Saint Cloud
+2578175,Southfields
+2616158,Town of Greenburgh
+2577449,Newark
+2579591,Wyckoff
+2576745,East Randolph
+2576757,Forks
+2577631,Wawarsing
+2577429,East Orange
+2597283,Manhattan Community Board 5
+2578218,Town of Mamakating
+2577686,Manhattan Community Board 5
+2577326,Sparkill
+2577765,Mountain Dale
+3476612,Town of Clarkstown
+2577419,River Edge
+2579581,Oakland
+835814,Chicago
+2577832,White Mills
+2577809,Oakland
+835767,Kenosha
+2584297,Town of Goshen
+2428731,Oak Creek
+2584627,Town of Monroe
+2332605,Memphis
+2616132,Town of Greenburgh
+3453519,Bristol
+2577898,Manhattan Community Board 6
+2577965,Morehousetown
+2577766,Ferndale
+2577691,Manhattan Community Board 1
+4211704,Brockville
+2577417,Oradell
+2332680,Grimsby
+2618215,Oshkosh
+2576806,Salamanca
+835779,Milwaukee
+2332563,Cornwall
+2578200,Wyckoff
+2577970,Morehousetown
+2428743,Kenosha
+4211689,Houston
+2616152,Harrison
+2577597,Olean
+2577954,East Coldenham
+2577671,Rochelle Park
+2576744,Evans Center
+2332549,Buffalo
+2577551,North Princeton
+2577420,River Edge
+835734,Schiller Park
+2428741,Milwaukee
+2577971,East Orange
+2577956,Leonia
+2577546,Voorhees
+2577159,Manhattan Community Board 4
+4226657,Hawley
+2619549,Town of Clarkstown
+2576784,Little Valley
+2577492,Manhattan Community Board 4
+3453517,Oak Ridge
+2616126,Town of Orangetown
+835744,Milwaukee
+2577122,Town of Clarkstown
+2577158,Manhattan Community Board 5
+2628784,Wauwatosa
+2436307,Harrisonburg
+2577456,Newark
+3475160,Milwaukee
+2577710,Manhattan Community Board 6
+2577782,Town of Liberty
+4211703,Toronto
+3475161,Summit
+2577658,Central Valley
+2576769,Dunkirk
+2578201,Wyckoff
+2577780,Town of Liberty
+2577329,Town of Clarkstown
+2577665,Paramus
+2576794,Irving
+2577374,Manhattan Community Board 5
+2577619,Town of Blooming Grove
+2578198,Wyckoff
+2751310,Newburgh
+835760,Kenosha
+2428733,Racine
+2428732,Racine
+2581607,White Mills
+2577161,Manhattan Community Board 4
+3475168,Milwaukee
+2577155,Manhattan Community Board 5
+2577818,Manhattan Community Board 1
+2577358,Pearl River
+2577821,New York
+4226658,Hawley
+2577558,South River
+2577399,Demarest
+2577495,Clearbrook
+2629079,Town of Chester
+2577894,Etra
+2577756,Coldenham
+2750789,Paradise
+2577632,Wawarsing
+2576754,Lake Erie Beach
+4211554,White Lake
+2577907,Kingston
+2619541,Alpine
+835751,Racine
+2580900,Kiamesha Lake
+2577362,Hillsdale Manor
+2577798,Town of New Windsor
+2577707,Ho-Ho-Kus
+2384096,Daytona Beach
+4211700,Fresno
+2577713,High View
+2428745,Kenosha
+2577323,Alpine
+2577451,Newark
+4211695,Las Vegas
+3475149,Waukesha
+2578188,Oakland
+2577319,Fort Lee
+2577796,Manhattan Community Board 5
+2578040,Town of Montgomery
+2428728,Kenosha
+2616153,Town of Harrison
+835761,Kenosha
+835745,Milwaukee
+2577494,Rossmoor
+2577339,Manhattan Community Board 5
+2577615,New York
+835732,Chicago
+3475163,Delafield
+4208623,Newark
+2577786,New York
+3475137,Waukesha
+2332499,Forks
+2577364,Pearl River
+2577754,Town of Montgomery
+2578181,Wyckoff
+2624044,Milwaukee
+2577147,Manhattan Community Board 5
+835731,Schiller Park
+4211696,Barstow
+3475152,Waukesha
+2751356,East Rutherford
+2577359,Park Ridge
+2582983,Manhattan Community Board 5
+2616144,White Plains
+2577947,Manhattan Community Board 8
+2577953,Town of Montgomery
+2577524,Etra
+2428727,Racine
+2577704,Upper Saddle River
+2428730,Racine
+2577702,Antrim
+2577967,West Orange
+2577843,Town of Woodbury
+3453520,Wytheville
+2582985,Manhattan Community Board 5
+2577660,Town of Cornwall
+3475200,Milwaukee
+2577828,Middletown
+2578167,Town of Stony Point
+2577447,East Orange
+2577434,Morehousetown
+2577839,Milford
+2577755,Town of Montgomery
+2577533,Manhattan Community Board 4
+2576759,Kimball Stand
+2577322,Tenafly
+2577774,South Fallsburg
+2577752,Michigan Corners
+2577689,Manhattan Community Board 2
+2577663,Glenwood Park
+2576771,Vandalia
+2577324,Palisades
+4211553,White Lake
+2577346,Town of Clarkstown
+2577302,Town of Orangetown
+2577401,Town of Orangetown
+2576724,Wanakah
+2577460,Elizabeth
+2577794,Manhattan Community Board 5
+2577622,Manhattan Community Board 9
+2577354,Hillsdale Manor
+835766,Kenosha
+2578213,Town of Goshen
+835882,Milwaukee
+2577453,Newark
+3453742,Columbus
+2577468,Elizabeth
+2584554,Mechanicstown
+2576729,Fredonia
+2577763,Fallsburg
+2577835,Germantown
+4212279,Milwaukee
+2629101,New York
+2579598,Wyckoff
+2616143,White Plains
+2576749,Evans Center
+2751355,East Rutherford
+2576770,Pittsburgh
+3880675,Lake Delton
+2579582,Oakland
+2332643,Newark
+2584626,Midway Park
+2581432,Town of Monroe
+2576787,Vandalia
+2577668,Waldwick
+2619536,Englewood Cliffs
+2576777,Wanakah
+2577488,Hillsborough
+2624055,Milwaukee
+2616154,Mount Pleasant
+2577937,Town of Liberty
+2577418,Oradell
+2578190,Oakland
+2577777,Town of Thompson
+2577371,Town of Ramapo
+2577365,Town of Clarkstown
+2629100,New York
+2526378,Durham
+2576758,Wanakah
+2577357,Town of Clarkstown
+835765,Kenosha
+2750579,Town of Goshen
+2577443,Newark
+2576733,Kimball Stand
+2577925,Loch Sheldrake
+2581666,Westwood
+3475193,Hartland
+2578191,Oakland
+2578036,Town of Montgomery
+2577617,Morrison Heights
+2332608,Kingston
+3475151,Waukesha
+2616131,Town of Greenburgh
+2577645,Newburgh
+2616129,Town of Greenburgh
+2624057,Milwaukee
+2576737,Irving
+3475141,Waukesha
+2577949,Manhattan Community Board 8
+3453526,Radford City
+2581604,Milford Township
+2616156,Town of Greenburgh
+2576721,Cadiz
+2578166,Ladentown
+2577820,Manhattan Community Board 2
+835747,Milwaukee
+2577834,Wilsonville
+3475202,Milwaukee
+2577934,Town of Fallsburg
+2577978,Hillsdale
+2577390,Harrington Park
+2577532,Manhattan Community Board 4
+2577119,White Plains
+2577338,Town of Clarkstown
+2577951,Manhattan Community Board 5
+835776,Milwaukee
+3475145,Town of Brookfield
+2577117,Town of Thompson
+2751308,Town of Highlands
+2624038,Milwaukee
+2577944,Worley Heights
+2616141,White Plains
+2577556,East Brunswick Township
+4211564,Chicago O'Hare Airport
+2577693,Manhattan Community Board 1
+2577940,Town of Montgomery
+2618212,Green Bay
+2576741,Dunkirk
+3453536,Warrenton
+2576719,Arcade
+2576785,Allegany
+2577586,Parksville
+835786,Whitewater
+2577635,Summitville
+4211688,Dallas
+2578193,Oakland
+2577950,Manhattan Community Board 8
+2619538,Alpine
+3475146,Town of Brookfield
+2616157,Town of Greenburgh
+2577445,East Orange
+2577452,Newark
+2332630,Manhattan Community Board 5
+2579584,Oakland
+2616147,White Plains
+2624042,Milwaukee
+2577382,Leonia
+2577676,Ramsey
+2581596,Oakland
+2578038,East Coldenham
+2577334,Samsondale
+2581603,Tanglewood
+2332588,Washington
+2577458,Newstead North
+2576731,Forks
+2577389,Town of Orangetown
+3475159,Milwaukee
+835730,Chicago
+2576736,Sinclairville
+3878404,Menomonie
+2577688,Manhattan Community Board 2
+2577943,Town of Blooming Grove
+2577760,Paramus
+2577291,Town of Ramapo
+2332586,Riverside
+2616155,Town of Greenburgh
+2577618,Burnside
+2616121,Town of Ramapo
+2577644,Town of New Windsor
+2577523,Clearbrook
+2577305,Tappan
+2577583,Town of Hancock
+2332629,Whitby
+2578178,Town of New Windsor
+2577652,Samsondale
+3475147,Waukesha
+3475162,City of Pewaukee
+2738275,Town of Goshen
+2577982,Mount Ivy
+2332700,Manhattan Community Board 5
+2577687,Manhattan Community Board 5
+3453549,Ithaca
+2577149,Manhattan Community Board 5
+835758,Kenosha
+2578033,East Coldenham
+2577941,Morrison Heights
+2577462,Elizabeth
+2576799,Kennedy
+2579595,Wyckoff
+2616123,Town of Clarkstown
+2577355,Manhattan Community Board 5
+2577450,Newstead North
+2577677,Ridgewood
+2577767,Loch Sheldrake
+2629086,Madison
+2576742,Jamestown
+3475138,Waukesha
+835773,Racine
+2751309,Town of Highlands
+2577924,Loch Sheldrake

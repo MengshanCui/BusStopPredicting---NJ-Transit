@@ -1,0 +1,47 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1WH,,Abilities of NW New Jersey,Abilities of NW New Jersey,40.774666,-74.975338,,,,,,1
+2_DWH,,WH Family Clinic,Warren Hills Family Clinic,40.738384,-74.976454,,,,,,1
+3WH,,"Shoprite in Washington, NJ",Washington Rt. 31 Shoprite,40.739038,-74.975941,,,,,,1
+4WH,,Rt. 57 W and Railroad Ave,Rt. 57 and Railroad Ave.,40.759752,-74.973031,,,,,,1
+4_DWH,,Rt. 57 at NJ DMV,NJ  Motor Vehicle Commission,40.762509,-74.960277,,,,,,1
+5WH,,Lowes in Hackettstown on Rt 57,Lowes,40.83886,-74.821875,,,,,,1
+6WH,,"Weis in Hackettstown, NJ on Rt 57",Weis,40.827447,-74.834829,,,,,,1
+7WH,,"Shoprite in Hackettstown, NJ",Hackettstown Rt. 57 - Shoprite,40.822902,-74.835679,,,,,,1
+8WH,,"Walmart in Hackettstown, NJ",Walmart,40.816959,-74.842205,,,,,,1
+8_DWH,,Rt. 57 at NJ DMV,NJ  Motor Vehicle Commission,40.762574,-74.960145,,,,,,1
+9WH,,Dunkin Donuts at  Rt 31 and Rt 57,Dunkin Donuts - Intersection Rt. 57 and Rt. 31,40.760087,-74.975022,,,,,,1
+10WH,,Abilities of NW New Jersey,Abilities of NW New Jersey - Transfer point for Phillipsburg to Washington,40.774666,-74.975338,,,,,,1
+1PW,,St. Lukes Warren Campus,St. Lukes Warren Campus,40.70253,-75.17876,,,,,,1
+2PW,,Anderson Street and Heckman Street,Anderson Street/Heckman Street,40.69538,-75.17807,,,,,,1
+3PW,,Center Street and Walnut,Center Street/Walnut Street,40.68962,-75.17321,,,,,,1
+3_DPW,,Abbot/Sitegreaves Street,Abbot Street/Sitegreaves Street,40.68362,-75.18246,,,,,,1
+4PW,,Shappell Park,Shappell Park,40.68696,-75.19285,,,,,,1
+4_DPW,,O'Donnell Apartments (call to request service),Call to Request Pickup,40.6872,-75.19692,,,,,,1
+5PW,,One Stop Career Ctr- Old Location,One Stop Career Center (Old Location),40.69036,-75.20153,,,,,,1
+5_DPW,,Broad and South Main (call to request service),Call to Request Stop,40.69716,-75.19917,,,,,,1
+6PW,,Summit Ave and Morris Street,"Summit Ave and Morris Street , Heading Eastbound towards Washington",40.6953,-75.19215,,,,,,1
+6_DPW,,Phillipsburg Mall (call to request service),Phillipsburg Mall - Eastbound towards Washington,40.68656,-75.15313,,,,,,1
+7PW,,Pohatcong Plaza,Pohatcong Plaza- Eastbound towards Washington,40.67702,-75.14797,,,,,,1
+8PW,,Walmart,Walmart,40.67509,-75.14458,,,,,,1
+9PW,,Shoprite,Shoprite,40.6799,-75.14409,,,,,,1
+10PW,,Warren County Community College,Warren County Community College,40.745101,-75.01833,,,,,,1
+10_DPW_1,,Rt 57 and Prospect Street (call to request service),Call to Request Stop,40.75661,-74.98775,,,,,,1
+10_DPW_2,,Vannatta St. and Route 57 E (call to request service),Call to Request Stop,40.75902,-74.97634,,,,,,1
+11PW,,Abilities of NW New Jersey,Abilities of NW New Jersey - Transfer point for Washington to Hackettstown,40.774666,-74.975338,,,,,,1
+12PW,,Jackson Ave,"Jackson Ave.  - Westbound travel,  going back towards Phillipsburg",40.759242,-74.97611,,,,,,1
+12_DPW,,S. Prospect Street (call to request service),N. Prospect Street and Rt. 57 - Westbound toward Phillipsburg- Call to Request Pickup,40.75674,-74.9879,,,,,,1
+12_DPW_1,,Warren County Community College (call to request service),WCCC - Westbound towards Phillipsburg- Call to Request Pickup,40.7461,-75.02019,,,,,,1
+13PW,,Pohatcong Plaza,Pohatcong Plaza - Westbound towards Phillipsburg,40.67702,-75.14797,,,,,,1
+14PW,,Walmart,Walmart,40.67509,-75.14458,,,,,,1
+15PW,,Shoprite,Shoprite,40.6799,-75.14409,,,,,,1
+16PW,,S. Hillcrest and Rt 22 W,S. Hillcrest and Rt 22 W,40.69652,-75.18925,,,,,,1
+16_DPW,,Broad Street and South Main. Street,Broad Street and South Main Street,40.69716,-75.19917,,,,,,1
+17PW,,Market Street and South Main Street,Market Street and South Main Street,40.68914,-75.20026,,,,,,1
+17_DPW,,O'Donnell Apartments,O'Donnell Apartments,40.68711,-75.19707,,,,,,1
+18PW,,Shappell Park,Shappell Park,40.68697,-75.19285,,,,,,1
+18_DPW_1,,Abbott Street and Sitgreaves Street,Abbott Street and Sitgreaves Street,40.68348,-75.18257,,,,,,1
+18_DPW_2,,Center Street and  Green,Center Street and  Green,40.68894,-75.17403,,,,,,1
+19PW,,Anderson Street and Heckman Street,Anderson Street and Heckman Street,40.69545,-75.17784,,,,,,1
+19_DPW_1,,Marshall Street and Bates Street,Marshall Street and Bates Street,40.69499,-75.18289,,,,,,1
+19_DPW_2,,Elder Ave.,Elder Ave.,40.69718,-75.18417,,,,,,1
+20PW,,St. Lukes Warren Campus,St. Lukes Warren Campus,40.70253,-75.17876,,,,,,1

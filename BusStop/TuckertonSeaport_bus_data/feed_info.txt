@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+NJTRANSIT,http://www.njtransit.com/developer-tools,en,20240706,20240902,20240405,abanerjee1@njtransit.com,

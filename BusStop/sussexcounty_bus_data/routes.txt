@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,SC,,Skylands Connect,The route travels each way from the Sussex-Wantage library to the Hampton Plaza in Newton in most cases.  Check your timetable for exceptions.,3,http://www.sussex.nj.us/cit-e-access/webpage.cfm?TID=7&TPID=9168,d670da,
+2,SC,,New Freedom,The route travels each way from the Newton Park and Ride to the Netcong Train Station.  This route is by request only.  Call (973) 579-0480 48 hours in advance.,3,http://www.sussex.nj.us/cit-e-access/webpage.cfm?TID=7&TPID=12839,ed9564,

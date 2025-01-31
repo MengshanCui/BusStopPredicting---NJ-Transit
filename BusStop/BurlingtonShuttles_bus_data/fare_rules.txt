@@ -1,0 +1,4 @@
+﻿fare_id,route_id,origin_id,destination_id,contains_id
+B1,B1_BevPem,,,
+B2,B2_West,,,
+B5,B5_IC,,,

@@ -1,0 +1,427 @@
+﻿trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,shape_dist_traveled,timepoint
+Allentown_Clinton_Ou_WD_100_T01,08:30:00,08:30:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_100_T01,09:00:00,09:00:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,30.327,1
+Allentown_Clinton_Ou_WD_100_T01,09:50:00,09:50:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,99.941,1
+Allentown_Clinton_Ou_WD_100_T01,10:20:00,10:20:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,133.907,1
+Allentown_Clinton_Ou_WD_100_T01,10:35:00,10:35:00,AllentownClinton_7,5,Wind Creek Bethlehem,1,,,,146.139,1
+Allentown_Clinton_Ou_WD_100_T01,10:50:00,10:50:00,AllentownClinton_6,6,Lehigh Valley Intl Airport (ABE),,,,,161.313,1
+Allentown_Clinton_Ou_WD_100_T01,11:05:00,11:05:00,AllentownClinton_3,7,Allentown Transportation Center - Platform C,,,,,171.864,1
+Allentown_Clinton_Ou_WD_100_T01,11:25:00,11:25:00,AllentownClinton_1,8,,,,,,179.771,1
+Allentown_Clinton_Ou_WD_104_T01,10:00:00,10:00:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_104_T01,10:30:00,10:30:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.408,1
+Allentown_Clinton_Ou_WD_104_T01,11:20:00,11:20:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,98.04,1
+Allentown_Clinton_Ou_WD_104_T01,11:50:00,11:50:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,132.007,1
+Allentown_Clinton_Ou_WD_104_T01,12:05:00,12:05:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),,,,,144.239,1
+Allentown_Clinton_Ou_WD_104_T01,12:20:00,12:20:00,AllentownClinton_3,6,0,,,,,161.713,1
+Allentown_Clinton_Ou_WD_108_T01,12:00:00,12:00:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_108_T01,12:30:00,12:30:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.408,1
+Allentown_Clinton_Ou_WD_108_T01,13:15:00,13:15:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,98.04,1
+Allentown_Clinton_Ou_WD_108_T01,13:50:00,13:50:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,132.006,1
+Allentown_Clinton_Ou_WD_108_T01,14:05:00,14:05:00,AllentownClinton_7,5,"Hellertown, PAPark &Amp; Ride",1,,,,144.238,1
+Allentown_Clinton_Ou_WD_108_T01,14:20:00,14:20:00,AllentownClinton_5,6,Bethlehem Transportation Center,1,,,,156.667,1
+Allentown_Clinton_Ou_WD_108_T01,14:35:00,14:35:00,AllentownClinton_2,7,Lehigh Valley Intl Airport (ABE),1,,,,163.509,1
+Allentown_Clinton_Ou_WD_108_T01,14:50:00,14:50:00,AllentownClinton_3,8,Allentown Transportation Center - Platform C,1,,,,171.177,1
+Allentown_Clinton_Ou_WD_108_T01,15:05:00,15:05:00,AllentownClinton_1,9,"Wescosville, PAPark &Amp; Ride",1,,,,179.129,1
+Allentown_Clinton_Ou_WD_108_T01,15:20:00,15:20:00,AllentownClinton_4,10,,1,,,,187.397,1
+Allentown_Clinton_Ou_WD_112_116_T01,13:15:00,13:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_112_116_T01,14:15:00,14:15:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.126,1
+Allentown_Clinton_Ou_WD_112_116_T01,14:45:00,14:45:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,,,,,122.093,1
+Allentown_Clinton_Ou_WD_112_116_T01,15:00:00,15:00:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_WD_112_116_T01,15:15:00,15:15:00,AllentownClinton_3,5,Bethlehem Transportation Center,,,,,151.799,1
+Allentown_Clinton_Ou_WD_112_116_T01,15:30:00,15:30:00,AllentownClinton_2,6,Allentown Transportation Center - Platform C,1,,,,161.179,1
+Allentown_Clinton_Ou_WD_112_116_T01,15:45:00,15:45:00,AllentownClinton_1,7,,1,,,,169.986,1
+Allentown_Clinton_Ou_WD_112_116_T02,14:15:00,14:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_112_116_T02,15:15:00,15:15:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.126,1
+Allentown_Clinton_Ou_WD_112_116_T02,15:45:00,15:45:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,,,,,122.093,1
+Allentown_Clinton_Ou_WD_112_116_T02,16:00:00,16:00:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_WD_112_116_T02,16:15:00,16:15:00,AllentownClinton_3,5,Bethlehem Transportation Center,,,,,151.799,1
+Allentown_Clinton_Ou_WD_112_116_T02,16:30:00,16:30:00,AllentownClinton_2,6,Allentown Transportation Center - Platform C,1,,,,161.179,1
+Allentown_Clinton_Ou_WD_112_116_T02,16:45:00,16:45:00,AllentownClinton_1,7,,1,,,,169.986,1
+Allentown_Clinton_Ou_WD_120_132_T01,15:15:00,15:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_120_132_T01,16:20:00,16:20:00,AllentownClinton_9,2,,,,,,88.124,1
+Allentown_Clinton_Ou_WD_120_132_T02,16:30:00,16:30:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_120_132_T02,17:35:00,17:35:00,AllentownClinton_9,2,,,,,,88.124,1
+Allentown_Clinton_Ou_WD_124_T01,15:30:00,15:30:00,AllentownClinton_11,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_Ou_WD_124_T01,17:00:00,17:00:00,AllentownClinton_8,2,William Penn Highway Park &Amp; Ride,,,,,120.924,1
+Allentown_Clinton_Ou_WD_124_T01,17:15:00,17:15:00,AllentownClinton_7,3,Lehigh Valley Intl Airport (ABE),1,,,,133.156,1
+Allentown_Clinton_Ou_WD_124_T01,17:30:00,17:30:00,AllentownClinton_3,4,,1,,,,150.63,1
+Allentown_Clinton_Ou_WD_128_T01,16:00:00,16:00:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_128_T01,16:30:00,16:30:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.321,1
+Allentown_Clinton_Ou_WD_128_T01,17:20:00,17:20:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,97.952,1
+Allentown_Clinton_Ou_WD_128_T01,17:50:00,17:50:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,131.919,1
+Allentown_Clinton_Ou_WD_128_T01,18:05:00,18:05:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.151,1
+Allentown_Clinton_Ou_WD_128_T01,18:20:00,18:20:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.625,1
+Allentown_Clinton_Ou_WD_128_T01,18:35:00,18:35:00,AllentownClinton_2,7,,1,,,,171.004,1
+Allentown_Clinton_Ou_WD_136_T01,16:40:00,16:40:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_136_T01,17:45:00,17:45:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.127,1
+Allentown_Clinton_Ou_WD_136_T01,18:15:00,18:15:00,AllentownClinton_8,3,Allentown Transportation Center - Platform C,1,,,,122.094,1
+Allentown_Clinton_Ou_WD_136_T01,18:40:00,18:40:00,AllentownClinton_1,4,,1,,,,151.939,1
+Allentown_Clinton_Ou_WD_140_T01,16:50:00,16:50:00,AllentownClinton_11,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_Ou_WD_140_T01,18:25:00,18:25:00,AllentownClinton_7,2,Lehigh Valley Intl Airport (ABE),1,,,,129.275,1
+Allentown_Clinton_Ou_WD_140_T01,18:40:00,18:40:00,AllentownClinton_3,3,,1,,,,146.749,1
+Allentown_Clinton_Ou_MTWT_144_T01,17:10:00,17:10:00,AllentownClinton_11,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_Ou_MTWT_144_T01,18:40:00,18:40:00,AllentownClinton_8,2,Lehigh Valley Intl Airport (ABE),,,,,120.925,1
+Allentown_Clinton_Ou_MTWT_144_T01,19:05:00,19:05:00,AllentownClinton_3,3,,,,,,143.84,1
+Allentown_Clinton_Ou_WD_148_T01,17:10:00,17:10:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_148_T01,18:15:00,18:15:00,AllentownClinton_9,2,,,,,,88.124,1
+Allentown_Clinton_Ou_F_148_T01,17:10:00,17:10:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_F_148_T01,18:15:00,18:15:00,AllentownClinton_9,2,,,,,,88.124,1
+Allentown_Clinton_Ou_WD_152_T01,17:30:00,17:30:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_152_T01,18:35:00,18:35:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",1,,,,88.127,1
+Allentown_Clinton_Ou_WD_152_T01,19:05:00,19:05:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,,,,,122.093,1
+Allentown_Clinton_Ou_WD_152_T01,19:20:00,19:20:00,AllentownClinton_7,4,,1,,,,134.325,1
+Allentown_Clinton_Ou_WD_156_T01,17:45:00,17:45:00,AllentownClinton_11,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_Ou_WD_156_T01,19:10:00,19:10:00,AllentownClinton_7,2,"Hellertown, PAPark &Amp; Ride",1,,,,129.274,1
+Allentown_Clinton_Ou_WD_156_T01,19:25:00,19:25:00,AllentownClinton_5,3,"Wescosville, PAPark &Amp; Ride",1,,,,141.704,1
+Allentown_Clinton_Ou_WD_156_T01,19:40:00,19:40:00,AllentownClinton_4,4,,1,,,,165.004,1
+Allentown_Clinton_Ou_WD_160_T01,17:50:00,17:50:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_160_T01,18:55:00,18:55:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",1,,,,88.127,1
+Allentown_Clinton_Ou_WD_160_T01,19:30:00,19:30:00,AllentownClinton_8,3,,1,,,,122.094,1
+Allentown_Clinton_Ou_WD_164_T01,18:00:00,18:00:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_164_T01,19:05:00,19:05:00,AllentownClinton_9,2,William Penn Highway Park &Amp; Ride,1,,,,88.127,1
+Allentown_Clinton_Ou_WD_164_T01,19:35:00,19:35:00,AllentownClinton_7,3,Lehigh Valley Intl Airport (ABE),1,,,,130.444,1
+Allentown_Clinton_Ou_WD_164_T01,19:50:00,19:50:00,AllentownClinton_3,4,,1,,,,147.918,1
+Allentown_Clinton_Ou_WD_168_180_T01,18:30:00,18:30:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_168_180_T01,19:00:00,19:00:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.408,1
+Allentown_Clinton_Ou_WD_168_180_T01,19:50:00,19:50:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,98.04,1
+Allentown_Clinton_Ou_WD_168_180_T01,20:10:00,20:10:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,1,,,,132.007,1
+Allentown_Clinton_Ou_WD_168_180_T01,20:25:00,20:25:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.238,1
+Allentown_Clinton_Ou_WD_168_180_T01,20:40:00,20:40:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.713,1
+Allentown_Clinton_Ou_WD_168_180_T01,20:55:00,20:55:00,AllentownClinton_2,7,Allentown Transportation Center - Platform C,1,,,,171.092,1
+Allentown_Clinton_Ou_WD_168_180_T01,21:10:00,21:10:00,AllentownClinton_1,8,,1,,,,179.9,1
+Allentown_Clinton_Ou_WD_168_180_T02,21:00:00,21:00:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WD_168_180_T02,21:30:00,21:30:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.408,1
+Allentown_Clinton_Ou_WD_168_180_T02,22:20:00,22:20:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,98.04,1
+Allentown_Clinton_Ou_WD_168_180_T02,22:50:00,22:50:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,1,,,,132.007,1
+Allentown_Clinton_Ou_WD_168_180_T02,23:05:00,23:05:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.238,1
+Allentown_Clinton_Ou_WD_168_180_T02,23:20:00,23:20:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.713,1
+Allentown_Clinton_Ou_WD_168_180_T02,23:35:00,23:35:00,AllentownClinton_2,7,Allentown Transportation Center - Platform C,1,,,,171.092,1
+Allentown_Clinton_Ou_WD_168_180_T02,23:50:00,23:50:00,AllentownClinton_1,8,,1,,,,179.9,1
+Allentown_Clinton_Ou_WD_172_T01,19:00:00,19:00:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_172_T01,20:05:00,20:05:00,AllentownClinton_9,2,William Penn Highway Park &Amp; Ride,1,,,,88.127,1
+Allentown_Clinton_Ou_WD_172_T01,20:35:00,20:35:00,AllentownClinton_7,3,Lehigh Valley Intl Airport (ABE),1,,,,130.443,1
+Allentown_Clinton_Ou_WD_172_T01,,,AllentownClinton_3,4,"Wescosville, PAPark &Amp; Ride",1,,,,147.918,0
+Allentown_Clinton_Ou_WD_172_T01,20:50:00,20:50:00,AllentownClinton_4,5,,1,,,,166.305,1
+Allentown_Clinton_Ou_MTWT_176_T01,20:00:00,20:00:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_MTWT_176_T01,21:05:00,21:05:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",1,,,,88.127,1
+Allentown_Clinton_Ou_MTWT_176_T01,21:35:00,21:35:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.093,1
+Allentown_Clinton_Ou_MTWT_176_T01,21:50:00,21:50:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_MTWT_176_T01,22:05:00,22:05:00,AllentownClinton_3,5,,1,,,,151.799,1
+Allentown_Clinton_Ou_F_176_T01,20:30:00,20:30:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_F_176_T01,21:35:00,21:35:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",1,,,,88.127,1
+Allentown_Clinton_Ou_F_176_T01,22:05:00,22:05:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.093,1
+Allentown_Clinton_Ou_F_176_T01,22:20:00,22:20:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_F_176_T01,22:35:00,22:35:00,AllentownClinton_3,5,,1,,,,151.799,1
+Allentown_Clinton_Ou_WD_184_T01,20:00:00,20:00:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WD_184_T01,23:20:00,23:20:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",1,,,,88.126,1
+Allentown_Clinton_Ou_WD_184_T01,23:50:00,23:50:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.092,1
+Allentown_Clinton_Ou_WD_184_T01,24:05:00,24:05:00,AllentownClinton_7,4,"Hellertown, PAPark &Amp; Ride",1,,,,134.324,1
+Allentown_Clinton_Ou_WD_184_T01,24:20:00,24:20:00,AllentownClinton_5,5,Bethlehem Transportation Center,1,,,,146.754,1
+Allentown_Clinton_Ou_WD_184_T01,,,AllentownClinton_2,6,Lehigh Valley Intl Airport (ABE),1,,,,153.596,0
+Allentown_Clinton_Ou_WD_184_T01,,,AllentownClinton_3,7,Allentown Transportation Center - Platform C,1,,,,161.263,0
+Allentown_Clinton_Ou_WD_184_T01,,,AllentownClinton_1,8,"Wescosville, PAPark &Amp; Ride",1,,,,169.215,0
+Allentown_Clinton_Ou_WD_184_T01,24:35:00,24:35:00,AllentownClinton_4,9,,1,,,,177.484,1
+Allentown_Clinton_Ou_SAT_200_T01,09:30:00,09:30:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_SAT_200_T01,10:35:00,10:35:00,AllentownClinton_9,2,Wind Creek Bethlehem,,,,,88.127,1
+Allentown_Clinton_Ou_SAT_200_T01,11:15:00,11:15:00,AllentownClinton_6,3,"Hellertown, PAPark &Amp; Ride",,,,,137.354,1
+Allentown_Clinton_Ou_SAT_200_T01,11:30:00,11:30:00,AllentownClinton_5,4,,1,,,,142.307,1
+Allentown_Clinton_Ou_SUN_202_T01,09:30:00,09:30:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_SUN_202_T01,10:35:00,10:35:00,AllentownClinton_9,2,Wind Creek Bethlehem,,,,,88.127,1
+Allentown_Clinton_Ou_SUN_202_T01,11:15:00,11:15:00,AllentownClinton_6,3,"Hellertown, PAPark &Amp; Ride",,,,,137.353,1
+Allentown_Clinton_Ou_SUN_202_T01,11:30:00,11:30:00,AllentownClinton_5,4,"Wescosville, PAPark &Amp; Ride",1,,,,142.3,1
+Allentown_Clinton_Ou_SUN_202_T01,11:45:00,11:45:00,AllentownClinton_4,5,Allentown Transportation Center - Platform C,1,,,,165.6,1
+Allentown_Clinton_Ou_SUN_202_T01,12:00:00,12:00:00,AllentownClinton_1,6,,1,,,,174.819,1
+Allentown_Clinton_Ou_SAT_204_T01,10:15:00,10:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_SAT_204_T01,11:20:00,11:20:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.126,1
+Allentown_Clinton_Ou_SAT_204_T01,11:50:00,11:50:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.093,1
+Allentown_Clinton_Ou_SAT_204_T01,12:00:00,12:00:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_SAT_204_T01,12:15:00,12:15:00,AllentownClinton_3,5,Bethlehem Transportation Center,1,,,,151.799,1
+Allentown_Clinton_Ou_SAT_204_T01,12:30:00,12:30:00,AllentownClinton_2,6,"Hellertown, PAPark &Amp; Ride",1,,,,161.178,1
+Allentown_Clinton_Ou_SAT_204_T01,12:45:00,12:45:00,AllentownClinton_5,7,"Wescosville, PAPark &Amp; Ride",1,,,,167.343,1
+Allentown_Clinton_Ou_SAT_204_T01,13:00:00,13:00:00,AllentownClinton_4,8,Allentown Transportation Center - Platform C,1,,,,190.643,1
+Allentown_Clinton_Ou_SAT_204_T01,13:15:00,13:15:00,AllentownClinton_1,9,,1,,,,199.862,1
+Allentown_Clinton_Ou_WE_208_T01,10:15:00,10:15:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WE_208_T01,10:45:00,10:45:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.321,1
+Allentown_Clinton_Ou_WE_208_T01,11:30:00,11:30:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",1,,,,97.952,1
+Allentown_Clinton_Ou_WE_208_T01,12:00:00,12:00:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,131.919,1
+Allentown_Clinton_Ou_WE_208_T01,12:10:00,12:10:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.151,1
+Allentown_Clinton_Ou_WE_208_T01,12:25:00,12:25:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.625,1
+Allentown_Clinton_Ou_WE_208_T01,12:40:00,12:40:00,AllentownClinton_2,7,,1,,,,171.004,1
+Allentown_Clinton_Ou_WE_214_T01,13:15:00,13:15:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WE_214_T01,13:45:00,13:45:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.408,1
+Allentown_Clinton_Ou_WE_214_T01,14:35:00,14:35:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,98.04,1
+Allentown_Clinton_Ou_WE_214_T01,14:55:00,14:55:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,132.006,1
+Allentown_Clinton_Ou_WE_214_T01,15:10:00,15:10:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.238,1
+Allentown_Clinton_Ou_WE_214_T01,15:25:00,15:25:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.712,1
+Allentown_Clinton_Ou_WE_214_T01,15:40:00,15:40:00,AllentownClinton_2,7,"Hellertown, PAPark &Amp; Ride",1,,,,171.092,1
+Allentown_Clinton_Ou_WE_214_T01,15:50:00,15:50:00,AllentownClinton_5,8,"Wescosville, PAPark &Amp; Ride",1,,,,177.257,1
+Allentown_Clinton_Ou_WE_214_T01,16:05:00,16:05:00,AllentownClinton_4,9,Allentown Transportation Center - Platform C,1,,,,200.557,1
+Allentown_Clinton_Ou_WE_214_T01,16:20:00,16:20:00,AllentownClinton_1,10,0,1,,,,209.776,1
+Allentown_Clinton_Ou_WE_218_226_T01,15:15:00,15:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WE_218_226_T01,16:20:00,16:20:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.127,1
+Allentown_Clinton_Ou_WE_218_226_T01,16:50:00,16:50:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.093,1
+Allentown_Clinton_Ou_WE_218_226_T01,17:00:00,17:00:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_WE_218_226_T01,17:15:00,17:15:00,AllentownClinton_3,5,,1,,,,151.799,1
+Allentown_Clinton_Ou_WE_218_226_T02,18:15:00,18:15:00,AllentownClinton_11,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_Ou_WE_218_226_T02,19:20:00,19:20:00,AllentownClinton_9,2,"Easton, PA- Intermodal Transportation Center",,,,,88.127,1
+Allentown_Clinton_Ou_WE_218_226_T02,19:50:00,19:50:00,AllentownClinton_8,3,William Penn Highway Park &Amp; Ride,1,,,,122.093,1
+Allentown_Clinton_Ou_WE_218_226_T02,20:00:00,20:00:00,AllentownClinton_7,4,Lehigh Valley Intl Airport (ABE),1,,,,134.325,1
+Allentown_Clinton_Ou_WE_218_226_T02,20:15:00,20:15:00,AllentownClinton_3,5,,1,,,,151.799,1
+Allentown_Clinton_Ou_WE_222_T01,16:15:00,16:15:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WE_222_T01,16:45:00,16:45:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.321,1
+Allentown_Clinton_Ou_WE_222_T01,17:30:00,17:30:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",,,,,97.952,1
+Allentown_Clinton_Ou_WE_222_T01,18:00:00,18:00:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,,,,,131.919,1
+Allentown_Clinton_Ou_WE_222_T01,18:10:00,18:10:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.15,1
+Allentown_Clinton_Ou_WE_222_T01,18:25:00,18:25:00,AllentownClinton_3,6,Bethlehem Transportation Center,1,,,,161.625,1
+Allentown_Clinton_Ou_WE_222_T01,18:40:00,18:40:00,AllentownClinton_2,7,"Hellertown, PAPark &Amp; Ride",1,,,,171.004,1
+Allentown_Clinton_Ou_WE_222_T01,18:55:00,18:55:00,AllentownClinton_5,8,"Wescosville, PAPark &Amp; Ride",1,,,,177.169,1
+Allentown_Clinton_Ou_WE_222_T01,19:10:00,19:10:00,AllentownClinton_4,9,Allentown Transportation Center - Platform C,1,,,,200.469,1
+Allentown_Clinton_Ou_WE_222_T01,19:25:00,19:25:00,AllentownClinton_1,10,,1,,,,209.688,1
+Allentown_Clinton_Ou_WE_232_T01,21:00:00,21:00:00,AllentownClinton_11,1,Newark Airport - Terminal A,,,,,0,1
+Allentown_Clinton_Ou_WE_232_T01,21:30:00,21:30:00,AllentownClinton_10,2,"Clinton, NJ Park &Amp; Ride",,,,,28.321,1
+Allentown_Clinton_Ou_WE_232_T01,22:15:00,22:15:00,AllentownClinton_9,3,"Easton, PA- Intermodal Transportation Center",1,,,,97.953,1
+Allentown_Clinton_Ou_WE_232_T01,22:45:00,22:45:00,AllentownClinton_8,4,William Penn Highway Park &Amp; Ride,1,,,,131.919,1
+Allentown_Clinton_Ou_WE_232_T01,22:55:00,22:55:00,AllentownClinton_7,5,Lehigh Valley Intl Airport (ABE),1,,,,144.151,1
+Allentown_Clinton_Ou_WE_232_T01,23:10:00,23:10:00,AllentownClinton_3,6,,1,,,,161.625,1
+Allentown_Clinton_Ou_WE_238_T01,21:00:00,21:00:00,AllentownClinton_11,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_Ou_WE_238_T01,22:30:00,22:30:00,AllentownClinton_2,2,"Hellertown, PAPark &Amp; Ride",1,,,,139.143,1
+Allentown_Clinton_Ou_WE_238_T01,22:45:00,22:45:00,AllentownClinton_5,3,"Wescosville, PAPark &Amp; Ride",1,,,,145.308,1
+Allentown_Clinton_Ou_WE_238_T01,23:00:00,23:00:00,AllentownClinton_4,4,Allentown Transportation Center - Platform C,1,,,,168.608,1
+Allentown_Clinton_Ou_WE_238_T01,23:15:00,23:15:00,AllentownClinton_1,5,,1,,,,177.827,1
+Allentown_Clinton_In_WD_101_125_T01,03:50:00,03:50:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_WD_101_125_T01,04:05:00,04:05:00,AllentownClinton_7,2,"New York, NY (PABT)",,,,,17.543,1
+Allentown_Clinton_In_WD_101_125_T01,05:30:00,05:30:00,AllentownClinton_11,3,,,,,,147.828,1
+Allentown_Clinton_In_WD_101_125_T02,05:30:00,05:30:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_WD_101_125_T02,05:45:00,05:45:00,AllentownClinton_7,2,"New York, NY (PABT)",,,,,17.543,1
+Allentown_Clinton_In_WD_101_125_T02,07:15:00,07:15:00,AllentownClinton_11,3,,,,,,147.828,1
+Allentown_Clinton_In_WD_105_141_T01,04:00:00,04:00:00,AllentownClinton_4,1,"Hellertown, PAPark &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WD_105_141_T01,04:15:00,04:15:00,AllentownClinton_5,2,"New York, NY (PABT)",,,,,21.367,1
+Allentown_Clinton_In_WD_105_141_T01,05:45:00,05:45:00,AllentownClinton_11,3,,,,,,155.938,1
+Allentown_Clinton_In_WD_105_141_T02,05:55:00,05:55:00,AllentownClinton_4,1,"Hellertown, PAPark &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WD_105_141_T02,06:10:00,06:10:00,AllentownClinton_5,2,"New York, NY (PABT)",,,,,21.367,1
+Allentown_Clinton_In_WD_105_141_T02,07:40:00,07:40:00,AllentownClinton_11,3,,,,,,155.938,1
+Allentown_Clinton_In_WD_109_149_T01,04:20:00,04:20:00,AllentownClinton_8,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WD_109_149_T01,04:50:00,04:50:00,AllentownClinton_9,2,"New York, NY (PABT)",,,,,34.65,1
+Allentown_Clinton_In_WD_109_149_T01,05:55:00,05:55:00,AllentownClinton_11,3,,,,,,121.404,1
+Allentown_Clinton_In_WD_109_149_T02,06:35:00,06:35:00,AllentownClinton_8,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WD_109_149_T02,07:05:00,07:05:00,AllentownClinton_9,2,"New York, NY (PABT)",,,,,34.65,1
+Allentown_Clinton_In_WD_109_149_T02,08:10:00,08:10:00,AllentownClinton_11,3,,,,,,121.404,1
+Allentown_Clinton_In_WD_113_T01,04:45:00,04:45:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_WD_113_T01,05:00:00,05:00:00,AllentownClinton_7,2,"Clinton, NJ Park &Amp; Ride",,,,,17.543,1
+Allentown_Clinton_In_WD_113_T01,05:30:00,05:30:00,AllentownClinton_9,3,"New York, NY (PABT)",,,,,60.763,1
+Allentown_Clinton_In_WD_113_T01,06:30:00,06:30:00,AllentownClinton_11,4,,,,,,147.517,1
+Allentown_Clinton_In_WD_117_T01,04:40:00,04:40:00,AllentownClinton_1,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_In_WD_117_T01,05:15:00,05:15:00,AllentownClinton_8,2,"Clinton, NJ Park &Amp; Ride",,,,,29.787,1
+Allentown_Clinton_In_WD_117_T01,05:45:00,05:45:00,AllentownClinton_9,3,"New York, NY (PABT)",,,,,64.437,1
+Allentown_Clinton_In_WD_117_T01,06:50:00,06:50:00,AllentownClinton_11,4,,,,,,151.191,1
+Allentown_Clinton_In_MTWT_121_T01,06:00:00,06:00:00,AllentownClinton_9,1,"New York, NY (PABT)",,,,,0,1
+Allentown_Clinton_In_MTWT_121_T01,07:05:00,07:05:00,AllentownClinton_11,2,,,,,,86.722,1
+Allentown_Clinton_In_WD_129_T01,04:55:00,04:55:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_WD_129_T01,05:15:00,05:15:00,AllentownClinton_2,2,"Easton, PA- Intermodal Transportation Center",,,,,8.891,1
+Allentown_Clinton_In_WD_129_T01,05:40:00,05:40:00,AllentownClinton_8,3,"Clinton, NJ Park &Amp; Ride",,,,,34.221,1
+Allentown_Clinton_In_WD_129_T01,06:10:00,06:10:00,AllentownClinton_9,4,"New York, NY (PABT)",,,,,68.871,1
+Allentown_Clinton_In_WD_129_T01,07:15:00,07:15:00,AllentownClinton_11,5,,,,,,156.326,1
+Allentown_Clinton_In_WD_133_T01,06:00:00,06:00:00,AllentownClinton_7,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_In_WD_133_T01,06:15:00,06:15:00,AllentownClinton_8,2,"New York, NY (PABT)",,,,,11.222,1
+Allentown_Clinton_In_WD_133_T01,07:40:00,07:40:00,AllentownClinton_11,3,,,,,,132.236,1
+Allentown_Clinton_In_WD_137_T01,06:00:00,06:00:00,AllentownClinton_3,1,"Clinton, NJ Park &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WD_137_T01,06:45:00,06:45:00,AllentownClinton_9,2,"New York, NY (PABT)",,,,,59.708,1
+Allentown_Clinton_In_WD_137_T01,07:50:00,07:50:00,AllentownClinton_11,3,,,,,,146.462,1
+Allentown_Clinton_In_WD_145_T01,06:00:00,06:00:00,AllentownClinton_1,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_WD_145_T01,06:25:00,06:25:00,AllentownClinton_7,2,"New York, NY (PABT)",,,,,23.062,1
+Allentown_Clinton_In_WD_145_T01,07:55:00,07:55:00,AllentownClinton_11,3,,,,,,152.647,1
+Allentown_Clinton_In_MTWT_153_T01,06:20:00,06:20:00,AllentownClinton_2,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_MTWT_153_T01,06:40:00,06:40:00,AllentownClinton_7,2,"Clinton, NJ Park &Amp; Ride",,,,,9.977,1
+Allentown_Clinton_In_MTWT_153_T01,07:10:00,07:10:00,AllentownClinton_9,3,"New York, NY (PABT)",,,,,53.197,1
+Allentown_Clinton_In_MTWT_153_T01,08:15:00,08:15:00,AllentownClinton_11,4,,,,,,139.951,1
+Allentown_Clinton_In_WD_157_T01,06:45:00,06:45:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+Allentown_Clinton_In_WD_157_T01,07:00:00,07:00:00,AllentownClinton_7,2,"Easton, PA- Intermodal Transportation Center",,,,,17.543,1
+Allentown_Clinton_In_WD_157_T01,07:15:00,07:15:00,AllentownClinton_8,3,"Clinton, NJ Park &Amp; Ride",,,,,28.765,1
+Allentown_Clinton_In_WD_157_T01,07:45:00,07:45:00,AllentownClinton_9,4,"New York, NY (PABT)",,,,,63.415,1
+Allentown_Clinton_In_WD_157_T01,09:00:00,09:00:00,AllentownClinton_11,5,,,,,,150.168,1
+Allentown_Clinton_In_MTWT_161_T01,07:25:00,07:25:00,AllentownClinton_4,1,"Hellertown, PAPark &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_MTWT_161_T01,07:45:00,07:45:00,AllentownClinton_5,2,"Clinton, NJ Park &Amp; Ride",,,,,21.367,1
+Allentown_Clinton_In_MTWT_161_T01,08:15:00,08:15:00,AllentownClinton_9,3,"New York, NY (PABT)",,,,,69.573,1
+Allentown_Clinton_In_MTWT_161_T01,09:20:00,09:20:00,AllentownClinton_11,4,,,,,,156.327,1
+Allentown_Clinton_In_WD_165_T01,07:05:00,07:05:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_WD_165_T01,07:25:00,07:25:00,AllentownClinton_2,2,Lehigh Valley Intl Airport (ABE),,,,,8.891,1
+Allentown_Clinton_In_WD_165_T01,07:40:00,07:40:00,AllentownClinton_3,3,William Penn Highway Park &Amp; Ride,,,,,16.559,1
+Allentown_Clinton_In_WD_165_T01,07:55:00,07:55:00,AllentownClinton_7,4,"Easton, PA- Intermodal Transportation Center",,,,,34.102,1
+Allentown_Clinton_In_WD_165_T01,08:10:00,08:10:00,AllentownClinton_8,5,"Clinton, NJ Park &Amp; Ride",,,,,45.323,1
+Allentown_Clinton_In_WD_165_T01,08:40:00,08:40:00,AllentownClinton_9,6,Newark Airport - Terminal A,,,,,79.973,1
+Allentown_Clinton_In_WD_165_T01,09:35:00,09:35:00,AllentownClinton_10,7,"New York, NY (PABT)",1,,,,148.256,1
+Allentown_Clinton_In_WD_165_T01,10:00:00,10:00:00,AllentownClinton_11,8,,,,,,174.962,1
+Allentown_Clinton_In_WD_169_T01,08:25:00,08:25:00,AllentownClinton_1,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WD_169_T01,08:45:00,08:45:00,AllentownClinton_3,2,William Penn Highway Park &Amp; Ride,,,,,9.806,1
+Allentown_Clinton_In_WD_169_T01,09:00:00,09:00:00,AllentownClinton_7,3,"Easton, PA- Intermodal Transportation Center",,,,,27.349,1
+Allentown_Clinton_In_WD_169_T01,09:15:00,09:15:00,AllentownClinton_8,4,"Clinton, NJ Park &Amp; Ride",,,,,38.571,1
+Allentown_Clinton_In_WD_169_T01,09:50:00,09:50:00,AllentownClinton_9,5,"New York, NY (PABT)",,,,,73.221,1
+Allentown_Clinton_In_WD_169_T01,10:55:00,10:55:00,AllentownClinton_11,6,,,,,,159.974,1
+Allentown_Clinton_In_WD_173_T01,09:55:00,09:55:00,AllentownClinton_1,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WD_173_T01,10:15:00,10:15:00,AllentownClinton_3,2,William Penn Highway Park &Amp; Ride,,,,,9.803,1
+Allentown_Clinton_In_WD_173_T01,10:30:00,10:30:00,AllentownClinton_7,3,"Easton, PA- Intermodal Transportation Center",,,,,27.346,1
+Allentown_Clinton_In_WD_173_T01,10:45:00,10:45:00,AllentownClinton_8,4,"Clinton, NJ Park &Amp; Ride",,,,,38.567,1
+Allentown_Clinton_In_WD_173_T01,11:15:00,11:15:00,AllentownClinton_9,5,"New York, NY (PABT)",,,,,73.217,1
+Allentown_Clinton_In_WD_173_T01,12:20:00,12:20:00,AllentownClinton_11,6,,,,,,159.971,1
+Allentown_Clinton_In_WD_177_T01,11:40:00,11:40:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_WD_177_T01,12:00:00,12:00:00,AllentownClinton_2,2,Lehigh Valley Intl Airport (ABE),,,,,8.891,1
+Allentown_Clinton_In_WD_177_T01,12:20:00,12:20:00,AllentownClinton_3,3,"Easton, PA- Intermodal Transportation Center",,,,,16.559,1
+Allentown_Clinton_In_WD_177_T01,12:45:00,12:45:00,AllentownClinton_8,4,"Clinton, NJ Park &Amp; Ride",,,,,40.827,1
+Allentown_Clinton_In_WD_177_T01,13:15:00,13:15:00,AllentownClinton_9,5,Newark Airport - Terminal A,,,,,75.477,1
+Allentown_Clinton_In_WD_177_T01,14:10:00,14:10:00,AllentownClinton_10,6,"New York, NY (PABT)",1,,,,143.851,1
+Allentown_Clinton_In_WD_177_T01,14:45:00,14:45:00,AllentownClinton_11,7,,,,,,170.575,1
+Allentown_Clinton_In_WD_181_T01,13:45:00,13:45:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_WD_181_T01,14:10:00,14:10:00,AllentownClinton_2,2,Lehigh Valley Intl Airport (ABE),,,,,8.891,1
+Allentown_Clinton_In_WD_181_T01,14:25:00,14:25:00,AllentownClinton_3,3,William Penn Highway Park &Amp; Ride,,,,,16.559,1
+Allentown_Clinton_In_WD_181_T01,14:40:00,14:40:00,AllentownClinton_7,4,"Easton, PA- Intermodal Transportation Center",,,,,34.102,1
+Allentown_Clinton_In_WD_181_T01,14:55:00,14:55:00,AllentownClinton_8,5,"Clinton, NJ Park &Amp; Ride",,,,,45.323,1
+Allentown_Clinton_In_WD_181_T01,15:25:00,15:25:00,AllentownClinton_9,6,Newark Airport - Terminal A,,,,,79.973,1
+Allentown_Clinton_In_WD_181_T01,16:15:00,16:15:00,AllentownClinton_10,7,"New York, NY (PABT)",1,,,,148.256,1
+Allentown_Clinton_In_WD_181_T01,16:50:00,16:50:00,AllentownClinton_11,8,,,,,,174.962,1
+Allentown_Clinton_In_MTWT_185_T01,17:05:00,17:05:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_MTWT_185_T01,17:30:00,17:30:00,AllentownClinton_2,2,Lehigh Valley Intl Airport (ABE),,,,,8.891,1
+Allentown_Clinton_In_MTWT_185_T01,17:45:00,17:45:00,AllentownClinton_3,3,Wind Creek Bethlehem,,,,,16.559,1
+Allentown_Clinton_In_MTWT_185_T01,18:00:00,18:00:00,AllentownClinton_6,4,William Penn Highway Park &Amp; Ride,,,,,28.417,1
+Allentown_Clinton_In_MTWT_185_T01,18:15:00,18:15:00,AllentownClinton_7,5,"Easton, PA- Intermodal Transportation Center",,,,,37.809,1
+Allentown_Clinton_In_MTWT_185_T01,18:30:00,18:30:00,AllentownClinton_8,6,"Clinton, NJ Park &Amp; Ride",,,,,49.031,1
+Allentown_Clinton_In_MTWT_185_T01,19:05:00,19:05:00,AllentownClinton_9,7,Newark Airport - Terminal A,,,,,83.68,1
+Allentown_Clinton_In_MTWT_185_T01,19:50:00,19:50:00,AllentownClinton_10,8,"New York, NY (PABT)",1,,,,152.054,1
+Allentown_Clinton_In_MTWT_185_T01,20:15:00,20:15:00,AllentownClinton_11,9,,,,,,178.778,1
+Allentown_Clinton_In_F_189_T01,17:05:00,17:05:00,AllentownClinton_1,1,Bethlehem Transportation Center,,,,,0,1
+Allentown_Clinton_In_F_189_T01,17:30:00,17:30:00,AllentownClinton_2,2,Lehigh Valley Intl Airport (ABE),,,,,8.891,1
+Allentown_Clinton_In_F_189_T01,17:45:00,17:45:00,AllentownClinton_3,3,William Penn Highway Park &Amp; Ride,,,,,16.559,1
+Allentown_Clinton_In_F_189_T01,18:00:00,18:00:00,AllentownClinton_7,4,Newark Airport - Terminal A,,,,,34.102,1
+Allentown_Clinton_In_F_189_T01,19:15:00,19:15:00,AllentownClinton_10,5,"New York, NY (PABT)",1,,,,145.215,1
+Allentown_Clinton_In_F_189_T01,20:15:00,20:15:00,AllentownClinton_11,6,,,,,,171.922,1
+Allentown_Clinton_In_F_193_T01,18:00:00,18:00:00,AllentownClinton_6,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_In_F_193_T01,18:30:00,18:30:00,AllentownClinton_8,2,"Clinton, NJ Park &Amp; Ride",,,,,21.145,1
+Allentown_Clinton_In_F_193_T01,19:05:00,19:05:00,AllentownClinton_9,3,Newark Airport - Terminal A,,,,,55.795,1
+Allentown_Clinton_In_F_193_T01,19:50:00,19:50:00,AllentownClinton_10,4,"New York, NY (PABT)",1,,,,124.168,1
+Allentown_Clinton_In_F_193_T01,20:45:00,20:45:00,AllentownClinton_11,5,,,,,,150.892,1
+Allentown_Clinton_In_SAT_201_T01,07:00:00,07:00:00,AllentownClinton_3,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_In_SAT_201_T01,07:30:00,07:30:00,AllentownClinton_8,2,"Clinton, NJ Park &Amp; Ride",,,,,24.268,1
+Allentown_Clinton_In_SAT_201_T01,08:00:00,08:00:00,AllentownClinton_9,3,"New York, NY (PABT)",,,,,58.918,1
+Allentown_Clinton_In_SAT_201_T01,09:00:00,09:00:00,AllentownClinton_11,4,,,,,,145.672,1
+Allentown_Clinton_In_WE_203_T01,07:00:00,07:00:00,AllentownClinton_4,1,"Hellertown, PAPark &Amp; Ride",,,,,0,1
+Allentown_Clinton_In_WE_203_T01,07:15:00,07:15:00,AllentownClinton_5,2,William Penn Highway Park &Amp; Ride,,,,,21.367,1
+Allentown_Clinton_In_WE_203_T01,07:30:00,07:30:00,AllentownClinton_7,3,"New York, NY (PABT)",,,,,36.112,1
+Allentown_Clinton_In_WE_203_T01,09:00:00,09:00:00,AllentownClinton_11,4,,,,,,165.697,1
+Allentown_Clinton_In_WE_205_T01,07:15:00,07:15:00,AllentownClinton_1,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WE_205_T01,07:35:00,07:35:00,AllentownClinton_3,2,"Easton, PA- Intermodal Transportation Center",,,,,9.803,1
+Allentown_Clinton_In_WE_205_T01,08:05:00,08:05:00,AllentownClinton_8,3,"Clinton, NJ Park &Amp; Ride",,,,,34.071,1
+Allentown_Clinton_In_WE_205_T01,08:35:00,08:35:00,AllentownClinton_9,4,Newark Airport - Terminal A,,,,,68.721,1
+Allentown_Clinton_In_WE_205_T01,09:15:00,09:15:00,AllentownClinton_10,5,"New York, NY (PABT)",1,,,,137.004,1
+Allentown_Clinton_In_WE_205_T01,09:45:00,09:45:00,AllentownClinton_11,6,,,,,,163.71,1
+Allentown_Clinton_In_WE_211_T01,09:05:00,09:05:00,AllentownClinton_1,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WE_211_T01,09:25:00,09:25:00,AllentownClinton_3,2,William Penn Highway Park &Amp; Ride,,,,,9.803,1
+Allentown_Clinton_In_WE_211_T01,09:40:00,09:40:00,AllentownClinton_7,3,"Easton, PA- Intermodal Transportation Center",,,,,27.346,1
+Allentown_Clinton_In_WE_211_T01,09:55:00,09:55:00,AllentownClinton_8,4,"Clinton, NJ Park &Amp; Ride",,,,,38.567,1
+Allentown_Clinton_In_WE_211_T01,10:25:00,10:25:00,AllentownClinton_9,5,"New York, NY (PABT)",,,,,73.217,1
+Allentown_Clinton_In_WE_211_T01,11:40:00,11:40:00,AllentownClinton_11,6,,,,,,159.971,1
+Allentown_Clinton_In_WE_217_T01,10:55:00,10:55:00,AllentownClinton_4,1,Allentown Transportation Center - Platform C,,,,,0,1
+Allentown_Clinton_In_WE_217_T01,11:15:00,11:15:00,AllentownClinton_1,2,Lehigh Valley Intl Airport (ABE),,,,,9.177,1
+Allentown_Clinton_In_WE_217_T01,11:35:00,11:35:00,AllentownClinton_3,3,"Clinton, NJ Park &Amp; Ride",,,,,19.025,1
+Allentown_Clinton_In_WE_217_T01,,,AllentownClinton_9,4,Newark Airport - Terminal A,1,,,,78.733,0
+Allentown_Clinton_In_WE_217_T01,13:00:00,13:00:00,AllentownClinton_10,5,"New York, NY (PABT)",1,,,,147.016,1
+Allentown_Clinton_In_WE_217_T01,13:30:00,13:30:00,AllentownClinton_11,6,,,,,,173.722,1
+Allentown_Clinton_In_WE_223_T01,11:55:00,11:55:00,AllentownClinton_7,1,"Easton, PA- Intermodal Transportation Center",,,,,0,1
+Allentown_Clinton_In_WE_223_T01,12:10:00,12:10:00,AllentownClinton_8,2,"Clinton, NJ Park &Amp; Ride",,,,,11.222,1
+Allentown_Clinton_In_WE_223_T01,12:40:00,12:40:00,AllentownClinton_9,3,Newark Airport - Terminal A,,,,,45.871,1
+Allentown_Clinton_In_WE_223_T01,13:30:00,13:30:00,AllentownClinton_10,4,"New York, NY (PABT)",1,,,,114.245,1
+Allentown_Clinton_In_WE_223_T01,14:00:00,14:00:00,AllentownClinton_11,5,,,,,,140.969,1
+Allentown_Clinton_In_WE_229_T01,14:55:00,14:55:00,AllentownClinton_1,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WE_229_T01,15:15:00,15:15:00,AllentownClinton_3,2,William Penn Highway Park &Amp; Ride,,,,,9.803,1
+Allentown_Clinton_In_WE_229_T01,15:30:00,15:30:00,AllentownClinton_7,3,"Easton, PA- Intermodal Transportation Center",,,,,27.346,1
+Allentown_Clinton_In_WE_229_T01,15:45:00,15:45:00,AllentownClinton_8,4,"Clinton, NJ Park &Amp; Ride",,,,,38.567,1
+Allentown_Clinton_In_WE_229_T01,16:15:00,16:15:00,AllentownClinton_9,5,"New York, NY (PABT)",,,,,73.217,1
+Allentown_Clinton_In_WE_229_T01,17:45:00,17:45:00,AllentownClinton_11,6,,,,,,159.971,1
+Allentown_Clinton_In_WE_235_T01,17:00:00,17:00:00,AllentownClinton_4,1,Allentown Transportation Center - Platform C,,,,,0,1
+Allentown_Clinton_In_WE_235_T01,17:20:00,17:20:00,AllentownClinton_1,2,Wind Creek Bethlehem,,,,,9.177,1
+Allentown_Clinton_In_WE_235_T01,17:50:00,17:50:00,AllentownClinton_6,3,"Hellertown, PAPark &Amp; Ride",,,,,21.014,1
+Allentown_Clinton_In_WE_235_T01,18:00:00,18:00:00,AllentownClinton_5,4,"Clinton, NJ Park &Amp; Ride",,,,,25.961,1
+Allentown_Clinton_In_WE_235_T01,18:30:00,18:30:00,AllentownClinton_9,5,"New York, NY (PABT)",,,,,74.167,1
+Allentown_Clinton_In_WE_235_T01,20:00:00,20:00:00,AllentownClinton_11,6,,,,,,160.921,1
+Allentown_Clinton_In_WE_241_T01,17:30:00,17:30:00,AllentownClinton_2,1,Lehigh Valley Intl Airport (ABE),,,,,0,1
+Allentown_Clinton_In_WE_241_T01,17:50:00,17:50:00,AllentownClinton_3,2,William Penn Highway Park &Amp; Ride,,,,,7.668,1
+Allentown_Clinton_In_WE_241_T01,18:05:00,18:05:00,AllentownClinton_7,3,"Easton, PA- Intermodal Transportation Center",,,,,25.211,1
+Allentown_Clinton_In_WE_241_T01,18:15:00,18:15:00,AllentownClinton_8,4,Newark Airport - Terminal A,,,,,36.432,1
+Allentown_Clinton_In_WE_241_T01,19:35:00,19:35:00,AllentownClinton_10,5,"New York, NY (PABT)",1,,,,138.976,1
+Allentown_Clinton_In_WE_241_T01,20:35:00,20:35:00,AllentownClinton_11,6,,,,,,165.682,1
+Doylestown_Flemington_Ou_MTWT_16_T01,18:00:00,18:00:00,AllentownClinton_11,1,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,0,1
+Doylestown_Flemington_Ou_MTWT_16_T01,19:00:00,19:00:00,DoylestownFlemington_7,2,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,79.441,1
+Doylestown_Flemington_Ou_MTWT_16_T01,19:25:00,19:25:00,DoylestownFlemington_6,3,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,98.44,1
+Doylestown_Flemington_Ou_MTWT_16_T01,19:45:00,19:45:00,DoylestownFlemington_5,4,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,118.306,1
+Doylestown_Flemington_Ou_MTWT_16_T01,19:55:00,19:55:00,DoylestownFlemington_4,5,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,121.821,1
+Doylestown_Flemington_Ou_MTWT_16_T01,20:05:00,20:05:00,DoylestownFlemington_3,6,"Doylestown, PA- Septa Train Station Bus Shelter - 130 S Clinton Ave",,,,,127.087,1
+Doylestown_Flemington_Ou_MTWT_16_T01,20:15:00,20:15:00,DoylestownFlemington_2,7,"Quakertown, PA- 60 4Th St",,,,,138.418,1
+Doylestown_Flemington_Ou_MTWT_16_T01,20:35:00,20:35:00,DoylestownFlemington_1,8,,,,,,165.576,1
+Doylestown_Flemington_Ou_MTWT_12_T01,17:00:00,17:00:00,AllentownClinton_11,1,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,0,1
+Doylestown_Flemington_Ou_MTWT_12_T01,18:05:00,18:05:00,DoylestownFlemington_7,2,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,79.441,1
+Doylestown_Flemington_Ou_MTWT_12_T01,18:25:00,18:25:00,DoylestownFlemington_6,3,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,98.44,1
+Doylestown_Flemington_Ou_MTWT_12_T01,18:45:00,18:45:00,DoylestownFlemington_5,4,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,118.306,1
+Doylestown_Flemington_Ou_MTWT_12_T01,18:55:00,18:55:00,DoylestownFlemington_4,5,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,121.821,1
+Doylestown_Flemington_Ou_MTWT_12_T01,19:00:00,19:00:00,DoylestownFlemington_3,6,,,,,,127.03,1
+Doylestown_Flemington_Ou_WE_308_T01,18:00:00,18:00:00,AllentownClinton_11,1,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,0,1
+Doylestown_Flemington_Ou_WE_308_T01,19:00:00,19:00:00,DoylestownFlemington_7,2,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,79.441,1
+Doylestown_Flemington_Ou_WE_308_T01,19:25:00,19:25:00,DoylestownFlemington_6,3,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,98.44,1
+Doylestown_Flemington_Ou_WE_308_T01,19:45:00,19:45:00,DoylestownFlemington_5,4,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,118.306,1
+Doylestown_Flemington_Ou_WE_308_T01,19:55:00,19:55:00,DoylestownFlemington_4,5,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,121.821,1
+Doylestown_Flemington_Ou_WE_308_T01,20:05:00,20:05:00,DoylestownFlemington_3,6,"Doylestown, PA- Septa Train Station Bus Shelter - 130 S Clinton Ave",,,,,127.087,1
+Doylestown_Flemington_Ou_WE_308_T01,20:15:00,20:15:00,DoylestownFlemington_2,7,,,,,,138.415,1
+Doylestown_Flemington_In_MTWT_11_T01,05:25:00,05:25:00,DoylestownFlemington_1,1,"Doylestown, PA- Septa Train Station Bus Shelter - 130 S Clinton Ave",,,,,0,1
+Doylestown_Flemington_In_MTWT_11_T01,05:50:00,05:50:00,DoylestownFlemington_2,2,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,26.047,1
+Doylestown_Flemington_In_MTWT_11_T01,06:05:00,06:05:00,DoylestownFlemington_3,3,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,36.589,1
+Doylestown_Flemington_In_MTWT_11_T01,06:15:00,06:15:00,DoylestownFlemington_4,4,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,41.859,1
+Doylestown_Flemington_In_MTWT_11_T01,06:25:00,06:25:00,DoylestownFlemington_5,5,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,47.727,1
+Doylestown_Flemington_In_MTWT_11_T01,06:50:00,06:50:00,DoylestownFlemington_6,6,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,68.003,1
+Doylestown_Flemington_In_MTWT_11_T01,07:05:00,07:05:00,DoylestownFlemington_7,7,"New York, NY (PABT)",,,,,85.798,1
+Doylestown_Flemington_In_MTWT_11_T01,08:15:00,08:15:00,AllentownClinton_11,8,,,,,,163.193,1
+Doylestown_Flemington_In_WD_5_T01,05:05:00,05:05:00,DoylestownFlemington_2,1,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,0,1
+Doylestown_Flemington_In_WD_5_T01,05:20:00,05:20:00,DoylestownFlemington_3,2,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,10.539,1
+Doylestown_Flemington_In_WD_5_T01,05:30:00,05:30:00,DoylestownFlemington_4,3,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,15.81,1
+Doylestown_Flemington_In_WD_5_T01,05:40:00,05:40:00,DoylestownFlemington_5,4,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,21.677,1
+Doylestown_Flemington_In_WD_5_T01,06:05:00,06:05:00,DoylestownFlemington_6,5,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,41.953,1
+Doylestown_Flemington_In_WD_5_T01,06:20:00,06:20:00,DoylestownFlemington_7,6,"New York, NY (PABT)",,,,,59.748,1
+Doylestown_Flemington_In_WD_5_T01,07:15:00,07:15:00,AllentownClinton_11,7,,,,,,137.143,1
+Doylestown_Flemington_In_WE_301_T01,08:20:00,08:20:00,DoylestownFlemington_2,1,"Lahaska, PA- Peddler&Apos;S Village At Street Rd",,,,,0,1
+Doylestown_Flemington_In_WE_301_T01,08:35:00,08:35:00,DoylestownFlemington_3,2,"New Hope, PA- Bus Shelter In Logan Square Near Ups Store",,,,,10.539,1
+Doylestown_Flemington_In_WE_301_T01,08:45:00,08:45:00,DoylestownFlemington_4,3,"Lambertville, NJ - Bus Shelter On Bridge St Near Exxon",,,,,15.81,1
+Doylestown_Flemington_In_WE_301_T01,08:55:00,08:55:00,DoylestownFlemington_5,4,"Flemington, NJ - Liberty Village Lower Commuter Lot",,,,,21.677,1
+Doylestown_Flemington_In_WE_301_T01,09:20:00,09:20:00,DoylestownFlemington_6,5,"Branchburg, NJ - Municipal Park &Amp; Ride",,,,,41.953,1
+Doylestown_Flemington_In_WE_301_T01,09:35:00,09:35:00,DoylestownFlemington_7,6,"New York, NY (PABT)",,,,,59.748,1
+WallSt_Ou_WD_400_T01,15:45:00,15:45:00,WallSt_8,1,Bridge Street,,,,,0,1
+WallSt_Ou_WD_400_T01,15:49:00,15:49:00,WallSt_9,2,Trinity At Rector,,,,,0.421,1
+WallSt_Ou_WD_400_T01,15:52:00,15:52:00,WallSt_10,3,Church And Murray,,,,,1.062,1
+WallSt_Ou_WD_400_T01,15:55:00,15:55:00,WallSt_11,4,Church And Reade,,,,,1.79,1
+WallSt_Ou_WD_400_T01,15:58:00,15:58:00,WallSt_12,5,"Clinton, NJ Park &Amp; Ride",,,,,1.977,1
+WallSt_Ou_WD_400_T01,17:15:00,17:15:00,AllentownClinton_9,6,William Penn Highway Park &Amp; Ride,1,,,,84.479,1
+WallSt_Ou_WD_400_T01,17:45:00,17:45:00,AllentownClinton_7,7,Lehigh Valley Intl Airport (ABE),1,,,,126.795,1
+WallSt_Ou_WD_400_T01,18:05:00,18:05:00,AllentownClinton_3,8,,,,,,144.27,1
+WallSt_Ou_MTWT_404_T01,16:45:00,16:45:00,WallSt_8,1,Bridge Street,,,,,0,1
+WallSt_Ou_MTWT_404_T01,16:49:00,16:49:00,WallSt_9,2,Trinity At Rector,,,,,0.421,1
+WallSt_Ou_MTWT_404_T01,16:52:00,16:52:00,WallSt_10,3,Church And Murray,,,,,1.062,1
+WallSt_Ou_MTWT_404_T01,16:55:00,16:55:00,WallSt_11,4,Church And Reade,,,,,1.79,1
+WallSt_Ou_MTWT_404_T01,16:58:00,16:58:00,WallSt_12,5,"Clinton, NJ Park &Amp; Ride",,,,,1.977,1
+WallSt_Ou_MTWT_404_T01,18:15:00,18:15:00,AllentownClinton_9,6,William Penn Highway Park &Amp; Ride,1,,,,84.479,1
+WallSt_Ou_MTWT_404_T01,18:45:00,18:45:00,AllentownClinton_7,7,Lehigh Valley Intl Airport (ABE),1,,,,126.795,1
+WallSt_Ou_MTWT_404_T01,19:05:00,19:05:00,AllentownClinton_3,8,,,,,,144.27,1
+WallSt_In_WD_401_T01,04:30:00,04:30:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+WallSt_In_WD_401_T01,04:45:00,04:45:00,AllentownClinton_7,2,"Clinton, NJ Park &Amp; Ride",,,,,17.543,1
+WallSt_In_WD_401_T01,05:15:00,05:15:00,AllentownClinton_9,3,Varick &Amp; N Moore,,,,,60.763,1
+WallSt_In_WD_401_T01,06:20:00,06:20:00,WallSt_1,4,Broadway At Thomas,,,,,144.035,1
+WallSt_In_WD_401_T01,,,WallSt_2,5,Broadway At Warren,1,,,,144.725,0
+WallSt_In_WD_401_T01,,,WallSt_3,6,Broadway At Cedar,1,,,,144.929,0
+WallSt_In_WD_401_T01,,,WallSt_4,7,Broadway At Rector,1,,,,145.602,0
+WallSt_In_WD_401_T01,,,WallSt_5,8,Water At Broad,1,,,,145.742,0
+WallSt_In_WD_401_T01,,,WallSt_6,9,Water And Wall,1,,,,146.429,0
+WallSt_In_WD_401_T01,06:45:00,06:45:00,WallSt_7,10,,1,,,,146.905,1
+WallSt_In_MTWT_407_T01,05:30:00,05:30:00,AllentownClinton_3,1,William Penn Highway Park &Amp; Ride,,,,,0,1
+WallSt_In_MTWT_407_T01,05:45:00,05:45:00,AllentownClinton_7,2,"Clinton, NJ Park &Amp; Ride",,,,,17.543,1
+WallSt_In_MTWT_407_T01,06:15:00,06:15:00,AllentownClinton_9,3,Varick &Amp; N Moore,,,,,60.763,1
+WallSt_In_MTWT_407_T01,07:20:00,07:20:00,WallSt_1,4,Broadway At Thomas,,,,,144.035,1
+WallSt_In_MTWT_407_T01,,,WallSt_2,5,Broadway At Warren,1,,,,144.725,0
+WallSt_In_MTWT_407_T01,,,WallSt_3,6,Broadway At Cedar,1,,,,144.929,0
+WallSt_In_MTWT_407_T01,,,WallSt_4,7,Broadway At Rector,1,,,,145.602,0
+WallSt_In_MTWT_407_T01,,,WallSt_5,8,Water At Broad,1,,,,145.742,0
+WallSt_In_MTWT_407_T01,,,WallSt_6,9,Water And Wall,1,,,,146.429,0
+WallSt_In_MTWT_407_T01,07:45:00,07:45:00,WallSt_7,10,,1,,,,146.905,1

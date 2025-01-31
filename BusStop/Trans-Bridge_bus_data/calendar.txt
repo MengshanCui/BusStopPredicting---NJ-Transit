@@ -1,0 +1,12 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+Allentown_Clinton_WD,1,1,1,1,1,0,0,20230605,20241231
+Allentown_Clinton_MTWT,1,1,1,1,0,0,0,20230605,20241231
+Allentown_Clinton_F,0,0,0,0,1,0,0,20230605,20241231
+Allentown_Clinton_WE,0,0,0,0,0,1,1,20230605,20241231
+Allentown_Clinton_SAT,0,0,0,0,0,1,0,20230605,20241231
+Allentown_Clinton_SUN,0,0,0,0,0,0,1,20230605,20241231
+Doylestown_Flemington_WD,1,1,1,1,1,0,0,20230605,20241231
+Doylestown_Flemington_MTWT,1,1,1,1,0,0,0,20230605,20241231
+Doylestown_Flemington_WE,0,0,0,0,0,1,1,20230605,20241231
+WallSt_WD,1,1,1,1,1,0,0,20230605,20241231
+WallSt_MTWT,1,1,1,1,0,0,0,20230605,20241231

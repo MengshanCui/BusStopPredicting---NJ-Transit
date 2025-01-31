@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,is_rt_supported,is_sa_supported
+1761374,"Academy Bus","http://www.academybus.com/Commuters/Commuters.aspx",America/New_York,en,"732-291-1300",1,0

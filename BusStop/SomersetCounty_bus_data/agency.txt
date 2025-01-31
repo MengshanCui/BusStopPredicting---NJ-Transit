@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+SC,Somerset County,http://www.co.somerset.nj.us/government/public-works/transportation/county-shuttle-schedules,America/New_York,en,908-231-7151,,

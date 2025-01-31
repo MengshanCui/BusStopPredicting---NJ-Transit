@@ -1,0 +1,5 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+weekday,1,1,1,1,0,0,0,20240101,20251231
+mtwr,1,1,1,1,0,0,0,20240101,20251231
+friday,0,0,0,0,1,0,0,20240101,20251231
+we_holiday,0,0,0,0,0,1,1,20240101,20251231

@@ -1,0 +1,177 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,line_id
+6410248,348840765,1213357797,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,1213357798,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,1213357799,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,1213357800,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,346407291,1213357801,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,2073666479,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,2073666480,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,348840765,2330376126,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,346407291,2459662989,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410248,346407291,2459662990,"Exit 5 to Port Authority - Wall Street","",1,,11235502,4561666
+6410251,346350578,221419690,"Route 36 to Wall Street - Highlands Highway","",1,,7813264,4580350
+6410251,346405855,412087281,"Route 36 to Wall Street - Highlands Middle Road","",1,,7934457,4814419
+6410252,346405849,221172648,"Route 36 to Port Authority - Highlands Highway","",1,,7813260,4580349
+6410252,346350122,221189037,"Route 36 to Port Authority - Keansburg, Middle Road","",1,,7835823,4580347
+6410252,346350576,221194398,"Route 36 to Port Authority - Leonardo Highway","",1,,7548864,4580344
+6410252,346350209,221194400,"Route 36 to Port Authority - Highlands, Keansburg, Highway","",1,,7813261,4580343
+6410252,346350209,221194401,"Route 36 to Port Authority - Highlands, Keansburg, Highway","",1,,7813261,4580343
+6410252,346405851,221194402,"Route 36 to Port Authority - Leonardo, Keansburg, Highway","",1,,14828280,4580345
+6410252,346405852,661711149,"Route 36 to Port Authority - Long Branch Highway","",1,,7813262,4580341
+6410252,346405850,1122022301,"Route 36 to Port Authority - Highlands, Keansburg, Middle Road","",1,,7835822,4580346
+6410252,348840759,1528670666,"Route 36 to Port Authority - Long Branch, Keansburg, Middle Road","",1,,7835830,4580340
+6410252,348840759,1530406508,"Route 36 - Keansburg to Long Branch","",0,,7813259,4612033
+6410252,348840736,2073666475,"Route 36 to Port Authority - Middle Road","",1,,7548865,4580348
+6410252,348840741,2330779985,"Route 36 to Port Authority - Highlands, Keansburg, Middle Road","",1,,7835822,4580346
+6410252,348840741,2330779986,"Route 36 to Port Authority - Highlands, Keansburg, Middle Road","",1,,7835822,4580346
+6410252,346349973,2461578866,"Route 36 to Port Authority - Highlands Highway","",1,,14730241,4580349
+6410252,346349973,2461578867,"Route 36 to Port Authority - Highlands Highway","",1,,14730243,4580349
+6410252,346349972,2461578868,"Route 36 to Port Authority - Highlands Highway","",1,,14730240,4580349
+6410252,346349973,2463169732,"Route 36 to Port Authority - Middle Road","",1,,14734109,4580348
+6410252,346349971,2463169733,"Route 36 to Port Authority - Middle Road","",1,,14758814,4580348
+6410252,346349971,2463244380,"Route 36 to Port Authority - Long Branch Highway","",1,,14734108,4580341
+6410256,348840753,219287340,"Jackson to Port Authority","",1,,7535425,4574746
+6410256,346405654,1616946227,"Jackson to Port Authority","",1,,7535425,4574746
+6410256,346405654,1616946228,"Jackson to Port Authority","",1,,7535425,4574746
+6410256,346405654,1616946229,"Jackson to Port Authority","",1,,7535425,4574746
+6410256,348840753,2330779987,"Jackson to Port Authority","",1,,7535425,4574746
+6410257,346350226,1276252652,"Route 9 to Wall Street","",1,,8854778,4583308
+6410257,346350226,1276252653,"Route 9 to Wall Street","",1,,8854778,4583308
+6410257,348840750,1729511733,"Route 9 to Wall Street","",1,,11795874,4583308
+6410257,346350226,1878679116,"Route 9 to Wall Street","",1,,8854778,4583308
+6410257,348840752,1878688306,"Route 9 to Wall Street","",1,,8854778,4583308
+6410257,348840751,2330779991,"Route 9 to Wall Street","",1,,9542117,4583308
+6410257,346349973,2459663106,"Route 9 to Wall Street","",1,,14727801,4583308
+6410257,346349973,2459663107,"Route 9 to Wall Street","",1,,14727801,4583308
+6410257,346349972,2459663108,"Route 9 to Wall Street","",1,,14719767,4583308
+6410258,348840746,1729465419,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2073666472,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2330579166,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2330579167,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2330579168,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2330579169,"PNC to PABT","",1,,11795872,6526526
+6410258,348840746,2330579170,"PNC to PABT","",1,,11795872,6526526
+6410258,346349972,2463579495,"PNC to PABT","",1,,14734114,6526526
+6410260,346398979,990329439,"Parkway Express to Port Authority","",1,,7535418,4574742
+6410260,346398979,990329440,"Parkway Express to Port Authority","",1,,7535418,4574742
+6410260,346398979,990329442,"Parkway Express to Port Authority","",1,,7535418,4574742
+6410260,348840739,1167100703,"Parkway Express to Port Authority-Starts 109","",1,,10020449,5881739
+6410260,348840739,2073666471,"Parkway Express to Port Authority-Starts 109","",1,,10020449,5881739
+6410260,346349972,2463422905,"Parkway Express to Port Authority","",1,,14734111,4574742
+6410260,346349972,2463422906,"Parkway Express to Port Authority","",1,,14758815,4574742
+6410260,348840736,2463422920,"Parkway Express to PABT-EXPRESS from 109","",1,,14828281,6834691
+6443451,348840764,1213357793,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,348840764,1213357795,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,348840764,1213357796,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,346407290,1305283223,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,346407290,1305283224,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,348840764,1425450134,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,348840764,2073666477,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6443451,346349973,2073666478,"Port Authority to Willingboro, Westampton","",0,,7512741,4681772
+6452372,346350212,216702162,"Point Pleasant to Port Authority Coastliner via PNC, Cheesequake","",1,,7813265,4681781
+6452372,348840732,413119415,"Point Pleasant to Port Authority via Route 35, PNC, Cheesequake--No Cookman stop","",1,,14734115,4817379
+6452372,346388250,648971923,"Ocean Grove to Port Authority via PNC","",1,,7835825,4571433
+6471062,346350202,594774474,"Port Authority to Point Pleasant Coastliner via PNC, Cheesequake","",0,,7813267,4681782
+6471062,348840733,648971983,"Port Authority to Ocean Grove via PNC","",0,,7835826,4571434
+6471062,348840733,682964023,"Port Authority to Ocean Grove via PNC","",0,,7835826,4571434
+6471062,348840734,1729511735,"Port Authority to Point Pleasant via PNC, Cheesequake","",0,,7835828,4681783
+6474410,348840740,1425397918,"Port Authority to Parkway Express","",0,,10178556,4681784
+6474410,348840740,1729465422,"Port Authority to Parkway Express","",0,,10178556,4681784
+6474410,348840742,2182553017,"Port Authority to Parkway Express - Ends Monmouth","",0,,11795873,6526527
+6474410,348840740,2330579161,"Port Authority to Parkway Express","",0,,10178556,4681784
+6474410,348840740,2330579162,"Port Authority to Parkway Express","",0,,10178556,4681784
+6474410,348840740,2330579163,"Port Authority to Parkway Express","",0,,10178556,4681784
+6474410,348840741,2330579164,"Port Authority to Parkway Express - Ends Monmouth","",0,,11795873,6526527
+6474410,346349972,2467571868,"Port Authority to Parkway Express - Ends 109","",0,,14758821,7333897
+6474410,346349972,2467571869,"Port Authority to Parkway Express - Ends Monmouth","",0,,14758820,6526527
+6474412,346399122,219228782,"Parkway Express to Wall Street","",1,,7813253,4574747
+6474412,346399122,1075917872,"Parkway Express to Wall Street","",1,,7813253,4574747
+6474412,348840743,1528669876,"Parkway Express to Wall Street","",1,,7813253,4574747
+6474412,348840741,2330579176,"Parkway Express to Wall Street-Starts Monmouth","",1,,14064731,7169060
+6474412,346349973,2467923594,"Parkway Express to Wall Street","",1,,14758813,4574747
+6474476,346399123,219240889,"Wall Street to Parkway Express","",0,,7832401,4681787
+6474476,348840744,1075917874,"Wall Street to Parkway Express","",0,,7832401,4681787
+6474476,348840744,1075917876,"Wall Street to Parkway Express","",0,,7832401,4681787
+6474476,348840745,2330779981,"Wall Street to Parkway Express - Ends Monmouth","",0,,14064732,7169061
+6474476,348840744,2330779982,"Wall Street to Parkway Express","",0,,7832401,4681787
+6474476,289905745,2431915329,"Wall Street to Parkway Express","",0,,7832401,4681787
+6474562,346405658,219341386,"Lakehurst, Manchester, Jackson to Port Authority ","",1,,14291243,4574744
+6474562,346405658,219341387,"Lakehurst, Manchester, Jackson to Port Authority ","",1,,14291243,4574744
+6474562,346405655,2374906696,"Lakehurst, Manchester, Jackson to Port Authority ","",1,,14285794,4574744
+6474562,346405655,2374906697,"Lakehurst, Manchester, Jackson to Port Authority ","",1,,14285794,4574744
+6474681,346405658,219287336,"Port Authority to Jackson, Manchester, Lakehurst","",0,,7535423,4681785
+6474681,346405658,219287337,"Port Authority to Jackson, Manchester, Lakehurst","",0,,7535423,4681785
+6474681,346405658,219287339,"Port Authority to Jackson, Manchester, Lakehurst","",0,,7535423,4681785
+6474681,346405655,2374906704,"Port Authority to Jackson, Manchester, Lakehurst","",0,,14285796,4681785
+6474682,346405656,219287345,"Port Authority to Jackson","",0,,7535422,4681786
+6474682,348840755,1618199324,"Port Authority to Jackson","",0,,7535422,4681786
+6474682,348840755,1618199325,"Port Authority to Jackson","",0,,7535422,4681786
+6474682,346405657,1618199326,"Port Authority to Jackson","",0,,7535422,4681786
+6474682,348840755,1618199705,"Port Authority to Jackson","",0,,7535422,4681786
+6474682,348840754,2330376122,"Port Authority to Jackson","",0,,14064730,4681786
+6474682,348840754,2330376123,"Port Authority to Jackson","",0,,14064730,4681786
+6474682,346349973,2463517346,"Port Authority to Jackson","",0,,14758816,4681786
+6489993,348840758,221310051,"Port Authority to Route 36 - Middle Road, Keansburg, Highlands","",0,,7835820,4681777
+6489993,348840758,221310052,"Port Authority to Route 36 - Middle Road, Keansburg, Highlands","",0,,7835820,4681777
+6489993,346405662,221310079,"Port Authority to Route 36 - Highway Keansburg, Highlands","",0,,14758819,4681774
+6489993,346405662,221310080,"Port Authority to Route 36 - Highway Keansburg, Highlands","",0,,14758819,4681774
+6489993,348840756,221310126,"Port Authority to Route 36 -  Middle Road, Keansburg, Long Branch","",0,,7835821,4681775
+6489993,346405663,527638087,"Port Authority to Route 36 - Highway, Long Branch","",0,,7835818,4681778
+6489993,346405663,829396064,"Port Authority to Route 36 - Highway, Long Branch","",0,,7835818,4681778
+6489993,348840757,1075917882,"Port Authority to Route 36 - Highway Highlands","",0,,7813263,4681776
+6489993,348840756,1404323887,"Port Authority to Route 36 -  Middle Road, Keansburg, Long Branch","",0,,7835821,4681775
+6489993,348840758,1729511737,"Port Authority to Route 36 - Middle Road, Keansburg, Highlands","",0,,7835820,4681777
+6489993,346349973,2467627430,"Port Authority to Route 36 -  Middle Road, Keansburg, Long Branch","",0,,14828279,4681775
+6489993,346349973,2467627431,"Port Authority to Route 36 -  Middle Road, Keansburg, Long Branch","",0,,14828279,4681775
+6489993,346349973,2467627432,"Port Authority to Route 36 - Highway Highlands","",0,,14758818,4681776
+6489993,346349972,2467627433,"Port Authority to Route 36 - Highway Highlands","",0,,14758818,4681776
+6490583,348840763,1729511738,"Wall Street to Route 36 - Highlands Highway","",0,,7835831,4681779
+6490583,348840763,1878679115,"Wall Street to Route 36 - Highlands Highway","",0,,7835831,4681779
+6497305,348840748,682943641,"Wall Street to Route 9 (Lakewood Bus Terminal)","",0,,8854789,5237191
+6497305,348840748,682943642,"Wall Street to Route 9 (Lakewood Bus Terminal)","",0,,8854789,5237191
+6497305,348840747,1075917870,"Wall Street to Route 9 (Freehold Mall) ","",0,,14758812,5716807
+6497305,346350224,1509448989,"Wall Street to Route 9 (Pine Street)","",0,,8854790,5237192
+6497305,346350224,1528669872,"Wall Street to Route 9 (Pine Street)","",0,,8854790,5237192
+6497305,348840749,1528669873,"Wall Street to Route 9 (Pine Street)","",0,,8854790,5237192
+6497305,348840749,1528669874,"Wall Street to Route 9 (Pine Street)","",0,,8854790,5237192
+6497305,348840750,1729511734,"Wall Street to Route 9 (Pine Street)","",0,,8854790,5237192
+7566101,346350151,682824956,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,682824959,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,682824960,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,682824961,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,682824963,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,682824964,"130 - New York to Lakewood - Union Hill Express","",0,,8854788,5237202
+7566101,346350151,682824965,"139 - New York to Lakewood - (Old Bridge - Aldrich Park and Ride)","",0,,8854784,5251653
+7566101,346350151,682824966,"139 - New York to Lakewood - (Old Bridge - Aldrich Park and Ride)","",0,,8854784,5251653
+7566101,346350151,682824967,"139 - New York to Lakewood - (Old Bridge - Aldrich Park and Ride)","",0,,8854784,5251653
+7566101,346350151,682824968,"139 - New York to Lakewood - (Old Bridge)","",0,,8854785,5237201
+7566101,346350151,682824969,"139 - New York to Lakewood - (Perrine - Union Hill)","",0,,8854786,5237195
+7566101,346350151,682824970,"139 - New York to Lakewood - (Perrine - Union Hill)","",0,,8854786,5237195
+7566101,346350151,682824972,"139 - Lakewood to New York - (Union Hill - Old Bridge)","",1,,8854783,5237194
+7566101,346350151,700978368,"139 - Lakewood - Old Bridge to New York (via Rt 9)","",1,,11297986,5237199
+7566101,346350151,787777739,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,787777741,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,787777742,"139 - Lakewood to New York - (Howell Garage - Old Bridge)","",1,,8854782,5237198
+7566101,346350151,787777743,"139 - Lakewood to New York - (Howell Garage - Old Bridge)","",1,,8854782,5237198
+7566101,346350151,1064579099,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,1064580203,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,1064580204,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,1064580205,"132 - Lakewood to New York - Gordons Corner Express","",1,,8854780,5237197
+7566101,346350151,1064580206,"139 - Lakewood to New York - (Union Hill - Old Bridge)","",1,,8854783,5237194
+7566101,346350151,1064580207,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,1064580208,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,1064580209,"136 - New York to Lakewood - Freehold Mall Express","",0,,8854787,5237196
+7566101,346350151,1404323890,"139 - Lakewood to New York - (Howell Garage - Old Bridge)","",1,,8854782,5237198
+7566101,346350103,1404323891,"139 - Lakewood to New York - (Schibanoff - Old Bridge)","",1,,8854781,5237193
+7592569,346350335,682953174,"8A to Port Authority (Suburban)","",1,,11235501,5237203
+7592569,346350335,1213357804,"8A to Port Authority (Academy)","",1,,11235501,5237205
+7592569,346350335,1213357805,"8A to Port Authority (Academy)","",1,,11235501,5237205
+7592569,346350336,1213357806,"Port Authority to 8A (Academy)","",0,,8863169,5237206
+7592569,346350335,1213357808,"8A to Port Authority (Suburban)","",1,,11235501,5237203
+7592569,346350336,1404323888,"Port Authority to 8A (Academy)","",0,,8863169,5237206
+7592569,346350336,1404323889,"Port Authority to 8A (Suburban)","",0,,8863168,5237204
+7592569,346349972,2073666481,"8A to Port Authority (Academy)","",1,,11235501,5237205
+8709460,348840735,1878679111,"Jersey City - Parkway Express","",0,,9895988,5824765
+8709460,348840735,1954574163,"Jersey City - Parkway Express","",0,,9895988,5824765
+8709461,348840735,1878679113,"Parkway Express - Wall Street Via Jersey City","",1,,9895987,5824766
+8709461,348840735,1954574165,"Parkway Express - Wall Street Via Jersey City","",1,,9895987,5824766

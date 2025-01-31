@@ -1,0 +1,11 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+2356,https://www.waukesha-wi.gov/government/departments/routes-schedules.php,en,Waukesha County Transit,(262) 524-3636,America/New_York,https://www.waukesha-wi.gov/government/departments/fares.php,
+1801,https://www.coachusa.com,en,Orange Westchester Link,,America/New_York,,
+1574,https://www.coachusa.com,en,ShortLine Hudson,,America/New_York,,
+1573,https://www.coachusa.com,en,Suburban Transit,,America/New_York,,
+1566,https://www.coachusa.com,en,Community Coach,,America/New_York,,
+1559,https://www.coachusa.com,en,Rockland Coaches,,America/New_York,,
+1558,https://web.coachusa.com/erie/,en,Coach USA Erie,,America/New_York,https://www.coachusa.com/erie/buffalo-jamestown-fares,
+664,https://www.coachusa.com,en,Newark Airport Express,,America/New_York,https://newarkairportexpress.com/shuttle-prices,
+563,https://www.coachusa.com,en,Wisconsin Coach Lines,,America/New_York,,
+562,https://www.coachusa.com,en,Van Galder (Coach USA),,America/New_York,,

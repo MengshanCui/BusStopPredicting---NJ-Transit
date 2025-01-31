@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+SC,Sussex County Skylands Ride,http://www.sussex.nj.us/cit-e-access/webpage.cfm?TID=7&TPID=9168,America/New_York,en,973-579-0480,

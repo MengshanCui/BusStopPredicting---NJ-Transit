@@ -1,0 +1,4 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+B1,2,USD,0,0,CCCTMA,
+B2,2,USD,0,0,CCCTMA,
+B5,2,USD,0,0,CCCTMA,

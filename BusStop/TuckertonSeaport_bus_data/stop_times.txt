@@ -1,0 +1,17 @@
+﻿trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,shape_dist_traveled,timepoint
+Outbound_T01,08:00:00,08:00:00,1,1,"Beach Haven ,Taylor Ave, Public Dock",0,1,0,0,,1
+Outbound_T01,09:00:00,09:00:00,2,2,,1,0,0,0,,1
+Outbound_T02,11:00:00,11:00:00,1,1,"Beach Haven ,Taylor Ave, Public Dock",0,1,0,0,,1
+Outbound_T02,12:00:00,12:00:00,2,2,,1,0,0,0,,1
+Outbound_T03,14:30:00,14:30:00,1,1,"Beach Haven ,Taylor Ave, Public Dock",0,1,0,0,,1
+Outbound_T03,15:30:00,15:30:00,2,2,,1,0,0,0,,1
+Outbound_T04,17:30:00,17:30:00,1,1,"Beach Haven ,Taylor Ave, Public Dock",0,1,0,0,,1
+Outbound_T04,18:30:00,18:30:00,2,2,,1,0,0,0,,1
+Inbound_T01,09:30:00,09:30:00,2,1,Tuckerton Seaport,1,0,0,0,,1
+Inbound_T01,10:30:00,10:30:00,1,2,,0,1,0,0,,1
+Inbound_T02,12:30:00,12:30:00,2,1,Tuckerton Seaport,1,0,0,0,,1
+Inbound_T02,13:30:00,13:30:00,1,2,,0,1,0,0,,1
+Inbound_T03,16:00:00,16:00:00,2,1,Tuckerton Seaport,1,0,0,0,,1
+Inbound_T03,17:00:00,17:00:00,1,2,,0,1,0,0,,1
+Inbound_T04,19:00:00,19:00:00,2,1,Tuckerton Seaport,1,0,0,0,,1
+Inbound_T04,20:00:00,20:00:00,1,2,,0,1,0,0,,1

@@ -1,0 +1,2 @@
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 14-Nov-2024 14:53,,support+test+megabus-us@trilliumtransit.com,http://support.trilliumtransit.com,20241114,20241220,562_563_664_1558_1559_1566_1573_1574_1801_2356

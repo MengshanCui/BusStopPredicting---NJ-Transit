@@ -1,0 +1,4 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+B1_BevPem,CCCTMA,,BurLINK B1 Beverly to Pemberton,,3,,703895,,,,
+B2_West,CCCTMA,,BurLINK B2 Beverly to Westampton,,3,,703895,,,,
+B5_IC,CCCTMA,,BurLINK B5 Florence Rail Station to Industrial Center,,3,,703895,,,,

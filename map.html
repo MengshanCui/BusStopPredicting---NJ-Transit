@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-heatmap@2.0.0/leaflet-heatmap.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-heatmap@2.0.0/leaflet-heatmap.js"></script>
+    <style>
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        // Rutgers University NB
+        var map = L.map('map').setView([40.539141, -74.510529], 13);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        function getMapBounds() {
+            var bounds = map.getBounds();
+            return {
+                north: bounds.getNorthEast().lat,
+                south: bounds.getSouthWest().lat,
+                east: bounds.getNorthEast().lng,
+                west: bounds.getSouthWest().lng
+            };
+        }
+
+        
+        var pointGroup = L.layerGroup().addTo(map);
+        
+        var lineGroup = L.layerGroup().addTo(map);
+
+        var markerCache = {};
+
+        function addMarker(lat, lon, color, radius, info) {
+            var key = lat + ',' + lon + ',' + color + ',' + radius;
+            if (markerCache[key]) {
+                // Marker already exists in cache, no need to add it again
+                return;
+            }
+
+            // Create and add the marker to the map
+            var marker = L.circle([lat, lon], {
+                color: color,
+                radius: radius,
+                fillOpacity: 0.2
+            }).addTo(pointGroup);
+            
+            // Bind a popup to the marker
+            marker.bindPopup(info);
+
+            // Store the marker in the cache
+            markerCache[key] = marker;
+        }
+
+        function addLine(latlngs, color) {
+            if (latlngs.length > 0) {
+                var polyline = L.polyline(latlngs, {color: color}).addTo(lineGroup);
+            }
+        }
+
+        function drawRoute(routeCoords) {
+            var latlngs = routeCoords.map(function(coord) {
+                return [coord[1], coord[0]]; // [lat, lon]
+            });
+
+            // API not working
+            var polyline = L.polyline(latlngs, { color: 'blue' }).addTo(map);
+
+            map.fitBounds(polyline.getBounds());
+        }
+
+        // clear layer pointGroup
+        function clearPoint() {
+            pointGroup.clearLayers();
+            markerCache = {};
+        }
+
+        // clear layer lineGroup
+        function clearLine() {
+            lineGroup.clearLayers();
+        }
+
+
+        // Functions for python
+        window.getMapBounds = getMapBounds;
+        window.addMarker = addMarker; 
+        window.drawRoute = drawRoute; 
+    </script>
+</body>
+</html>

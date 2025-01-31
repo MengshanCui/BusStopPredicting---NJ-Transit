@@ -1,0 +1,17 @@
+﻿service_id,date,exception_type
+Allentown_Clinton_F,20231225,2
+Allentown_Clinton_SAT,20231225,2
+Allentown_Clinton_SUN,20231225,2
+Allentown_Clinton_WE,20231231,2
+Allentown_Clinton_WD,20240101,2
+Allentown_Clinton_MTWT,20240101,2
+Doylestown_Flemington_WE,20231224,2
+Doylestown_Flemington_WD,20231225,2
+Doylestown_Flemington_MTWT,20231225,2
+Doylestown_Flemington_WE,20231231,2
+Doylestown_Flemington_WD,20240101,2
+Doylestown_Flemington_MTWT,20240101,2
+WallSt_WD,20231225,2
+WallSt_MTWT,20231225,2
+WallSt_WD,20240101,2
+WallSt_MTWT,20240101,2

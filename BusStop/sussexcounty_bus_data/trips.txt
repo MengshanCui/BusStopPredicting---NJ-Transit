@@ -1,0 +1,40 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,1,SB_T01,Hampton Plaza,0,,R1
+1,1,SB_T02,Hampton Plaza,0,,R1
+1,1,SB_T03,Hampton Plaza,0,,R1
+1,1,SB_T04,Hampton Plaza,0,,R1
+1,1,SB_T05,Hampton Plaza,0,,R1
+1,1,SB_T06,Hampton Plaza,0,,R1
+1,1,SB_T07,Hampton Plaza,0,,R1
+1,1,SB_T08,Hampton Plaza,0,,R1
+1,1,SB_T09,Hampton Plaza,0,,R1
+1,1,SB_T10,Hampton Plaza,0,,R1
+1,1,NB_T01,S-W Library,1,,R2
+1,1,NB_T02,S-W Library,1,,R2
+1,1,NB_T03,S-W Library,1,,R2
+1,1,NB_T04,S-W Library,1,,R2
+1,1,NB_T05,S-W Library,1,,R2
+1,1,NB_T06,S-W Library,1,,R2
+1,1,NB_T07,S-W Library,1,,R2
+1,1,NB_T08,S-W Library,1,,R2
+1,1,NB_T09,S-W Library,1,,R2
+1,1,NB_T10,S-W Library,1,,R2
+1,1,NB_T11,S-W Library,1,,R2
+2,1,SB_N_T01,Netcong,0,,N1
+2,1,SB_N_T02,Netcong,0,,N1
+2,1,SB_N_T03,Netcong,0,,N1
+2,1,SB_N_T04,Netcong,0,,N1
+2,1,SB_N_T05,Netcong,0,,N1
+2,1,SB_N_T06,Netcong,0,,N1
+2,1,NB_N_T01,Newton,1,,N2
+2,1,NB_N_T02,Newton,1,,N2
+2,1,NB_N_T03,Newton,1,,N2
+2,1,NB_N_T04,Newton,1,,N2
+2,1,NB_N_T05,Newton,1,,N2
+2,1,NB_N_T06,Newton,1,,N2
+1,2,SBSAT_T01,Hampton Plaza,0,,R1
+1,2,SBSAT_T02,Hampton Plaza,0,,R1
+1,2,SBSAT_T03,Hampton Plaza,0,,R1
+1,2,NBSAT_T01,S-W Library,1,,R2
+1,2,NBSAT_T02,S-W Library,1,,R2
+1,2,NBSAT_T03,S-W Library,1,,R2
